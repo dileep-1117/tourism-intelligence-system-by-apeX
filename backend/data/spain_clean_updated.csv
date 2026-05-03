@@ -1,0 +1,1021 @@
+Country,year,month,tourism_index,state,event,latitude,longitude
+Spain,2019,1,50,Andalusia,Winter Tourism,37.5443,-4.7278
+Spain,2019,2,55,Andalusia,Cultural Season,37.5443,-4.7278
+Spain,2019,3,65,Andalusia,Spring Travel,37.5443,-4.7278
+Spain,2019,4,85,Andalusia,Semana Santa,37.5443,-4.7278
+Spain,2019,5,75,Andalusia,Holiday Tourism,37.5443,-4.7278
+Spain,2019,6,85,Andalusia,Early Summer,37.5443,-4.7278
+Spain,2019,7,95,Andalusia,Summer Peak,37.5443,-4.7278
+Spain,2019,8,100,Andalusia,Beach Tourism Peak,37.5443,-4.7278
+Spain,2019,9,85,Andalusia,Autumn Travel,37.5443,-4.7278
+Spain,2019,10,75,Andalusia,Fall Tourism,37.5443,-4.7278
+Spain,2019,11,65,Andalusia,Cultural Tourism,37.5443,-4.7278
+Spain,2019,12,85,Andalusia,Christmas Tourism,37.5443,-4.7278
+Spain,2019,1,55,Catalonia,Winter Tourism,41.5912,1.5209
+Spain,2019,2,60,Catalonia,Cultural Tourism,41.5912,1.5209
+Spain,2019,3,70,Catalonia,Spring Travel,41.5912,1.5209
+Spain,2019,4,85,Catalonia,Easter Tourism,41.5912,1.5209
+Spain,2019,5,80,Catalonia,Holiday Tourism,41.5912,1.5209
+Spain,2019,6,88,Catalonia,Early Summer,41.5912,1.5209
+Spain,2019,7,98,Catalonia,Summer Peak,41.5912,1.5209
+Spain,2019,8,100,Catalonia,Tourism Peak,41.5912,1.5209
+Spain,2019,9,88,Catalonia,Autumn Travel,41.5912,1.5209
+Spain,2019,10,78,Catalonia,Fall Tourism,41.5912,1.5209
+Spain,2019,11,70,Catalonia,Cultural Season,41.5912,1.5209
+Spain,2019,12,90,Catalonia,Christmas Tourism,41.5912,1.5209
+Spain,2019,1,52,Madrid,Winter Tourism,40.4168,-3.7038
+Spain,2019,2,58,Madrid,Cultural Season,40.4168,-3.7038
+Spain,2019,3,68,Madrid,Spring Travel,40.4168,-3.7038
+Spain,2019,4,82,Madrid,Easter Tourism,40.4168,-3.7038
+Spain,2019,5,78,Madrid,Holiday Tourism,40.4168,-3.7038
+Spain,2019,6,85,Madrid,Early Summer,40.4168,-3.7038
+Spain,2019,7,92,Madrid,Summer Travel,40.4168,-3.7038
+Spain,2019,8,90,Madrid,Peak Season,40.4168,-3.7038
+Spain,2019,9,85,Madrid,Autumn Travel,40.4168,-3.7038
+Spain,2019,10,78,Madrid,Fall Tourism,40.4168,-3.7038
+Spain,2019,11,70,Madrid,Cultural Tourism,40.4168,-3.7038
+Spain,2019,12,88,Madrid,Holiday Tourism,40.4168,-3.7038
+Spain,2019,1,48,Valencia,Winter Tourism,39.4699,-0.3763
+Spain,2019,2,55,Valencia,Cultural Season,39.4699,-0.3763
+Spain,2019,3,75,Valencia,Las Fallas Festival,39.4699,-0.3763
+Spain,2019,4,82,Valencia,Spring Travel,39.4699,-0.3763
+Spain,2019,5,78,Valencia,Holiday Tourism,39.4699,-0.3763
+Spain,2019,6,88,Valencia,Beach Season,39.4699,-0.3763
+Spain,2019,7,98,Valencia,Summer Peak,39.4699,-0.3763
+Spain,2019,8,100,Valencia,Tourism Peak,39.4699,-0.3763
+Spain,2019,9,88,Valencia,Autumn Travel,39.4699,-0.3763
+Spain,2019,10,75,Valencia,Fall Tourism,39.4699,-0.3763
+Spain,2019,11,65,Valencia,Cultural Tourism,39.4699,-0.3763
+Spain,2019,12,85,Valencia,Christmas Tourism,39.4699,-0.3763
+Spain,2019,1,45,Canary Islands,Winter Tourism,28.2916,-16.6291
+Spain,2019,2,50,Canary Islands,Beach Tourism,28.2916,-16.6291
+Spain,2019,3,60,Canary Islands,Spring Travel,28.2916,-16.6291
+Spain,2019,4,70,Canary Islands,Holiday Tourism,28.2916,-16.6291
+Spain,2019,5,75,Canary Islands,Beach Travel,28.2916,-16.6291
+Spain,2019,6,85,Canary Islands,Early Summer,28.2916,-16.6291
+Spain,2019,7,95,Canary Islands,Summer Peak,28.2916,-16.6291
+Spain,2019,8,100,Canary Islands,Peak Season,28.2916,-16.6291
+Spain,2019,9,90,Canary Islands,Autumn Travel,28.2916,-16.6291
+Spain,2019,10,80,Canary Islands,Fall Tourism,28.2916,-16.6291
+Spain,2019,11,70,Canary Islands,Cultural Tourism,28.2916,-16.6291
+Spain,2019,12,90,Canary Islands,Holiday Tourism,28.2916,-16.6291
+Spain,2019,1,50,Andalusia,Winter Tourism,37.5443,-4.7278
+Spain,2019,2,55,Andalusia,Cultural Season,37.5443,-4.7278
+Spain,2019,3,65,Andalusia,Spring Travel,37.5443,-4.7278
+Spain,2019,4,85,Andalusia,Semana Santa,37.5443,-4.7278
+Spain,2019,5,75,Andalusia,Holiday Tourism,37.5443,-4.7278
+Spain,2019,6,85,Andalusia,Early Summer,37.5443,-4.7278
+Spain,2019,7,95,Andalusia,Summer Peak,37.5443,-4.7278
+Spain,2019,8,100,Andalusia,Beach Tourism Peak,37.5443,-4.7278
+Spain,2019,9,85,Andalusia,Autumn Travel,37.5443,-4.7278
+Spain,2019,10,75,Andalusia,Fall Tourism,37.5443,-4.7278
+Spain,2019,11,65,Andalusia,Cultural Tourism,37.5443,-4.7278
+Spain,2019,12,85,Andalusia,Christmas Tourism,37.5443,-4.7278
+Spain,2019,1,55,Catalonia,Winter Tourism,41.5912,1.5209
+Spain,2019,2,60,Catalonia,Cultural Tourism,41.5912,1.5209
+Spain,2019,3,70,Catalonia,Spring Travel,41.5912,1.5209
+Spain,2019,4,85,Catalonia,Easter Tourism,41.5912,1.5209
+Spain,2019,5,80,Catalonia,Holiday Tourism,41.5912,1.5209
+Spain,2019,6,88,Catalonia,Early Summer,41.5912,1.5209
+Spain,2019,7,98,Catalonia,Summer Peak,41.5912,1.5209
+Spain,2019,8,100,Catalonia,Tourism Peak,41.5912,1.5209
+Spain,2019,9,88,Catalonia,Autumn Travel,41.5912,1.5209
+Spain,2019,10,78,Catalonia,Fall Tourism,41.5912,1.5209
+Spain,2019,11,70,Catalonia,Cultural Season,41.5912,1.5209
+Spain,2019,12,90,Catalonia,Christmas Tourism,41.5912,1.5209
+Spain,2019,1,52,Madrid,Winter Tourism,40.4168,-3.7038
+Spain,2019,2,58,Madrid,Cultural Season,40.4168,-3.7038
+Spain,2019,3,68,Madrid,Spring Travel,40.4168,-3.7038
+Spain,2019,4,82,Madrid,Easter Tourism,40.4168,-3.7038
+Spain,2019,5,78,Madrid,Holiday Tourism,40.4168,-3.7038
+Spain,2019,6,85,Madrid,Early Summer,40.4168,-3.7038
+Spain,2019,7,92,Madrid,Summer Travel,40.4168,-3.7038
+Spain,2019,8,90,Madrid,Peak Season,40.4168,-3.7038
+Spain,2019,9,85,Madrid,Autumn Travel,40.4168,-3.7038
+Spain,2019,10,78,Madrid,Fall Tourism,40.4168,-3.7038
+Spain,2019,11,70,Madrid,Cultural Tourism,40.4168,-3.7038
+Spain,2019,12,88,Madrid,Holiday Tourism,40.4168,-3.7038
+Spain,2019,1,48,Valencia,Winter Tourism,39.4699,-0.3763
+Spain,2019,2,55,Valencia,Cultural Season,39.4699,-0.3763
+Spain,2019,3,75,Valencia,Las Fallas Festival,39.4699,-0.3763
+Spain,2019,4,82,Valencia,Spring Travel,39.4699,-0.3763
+Spain,2019,5,78,Valencia,Holiday Tourism,39.4699,-0.3763
+Spain,2019,6,88,Valencia,Beach Season,39.4699,-0.3763
+Spain,2019,7,98,Valencia,Summer Peak,39.4699,-0.3763
+Spain,2019,8,100,Valencia,Tourism Peak,39.4699,-0.3763
+Spain,2019,9,88,Valencia,Autumn Travel,39.4699,-0.3763
+Spain,2019,10,75,Valencia,Fall Tourism,39.4699,-0.3763
+Spain,2019,11,65,Valencia,Cultural Tourism,39.4699,-0.3763
+Spain,2019,12,85,Valencia,Christmas Tourism,39.4699,-0.3763
+Spain,2019,1,45,Canary Islands,Winter Tourism,28.2916,-16.6291
+Spain,2019,2,50,Canary Islands,Beach Tourism,28.2916,-16.6291
+Spain,2019,3,60,Canary Islands,Spring Travel,28.2916,-16.6291
+Spain,2019,4,70,Canary Islands,Holiday Tourism,28.2916,-16.6291
+Spain,2019,5,75,Canary Islands,Beach Travel,28.2916,-16.6291
+Spain,2019,6,85,Canary Islands,Early Summer,28.2916,-16.6291
+Spain,2019,7,95,Canary Islands,Summer Peak,28.2916,-16.6291
+Spain,2019,8,100,Canary Islands,Peak Season,28.2916,-16.6291
+Spain,2019,9,90,Canary Islands,Autumn Travel,28.2916,-16.6291
+Spain,2019,10,80,Canary Islands,Fall Tourism,28.2916,-16.6291
+Spain,2019,11,70,Canary Islands,Cultural Tourism,28.2916,-16.6291
+Spain,2019,12,90,Canary Islands,Holiday Tourism,28.2916,-16.6291
+Spain,2019,1,48,Asturias,Winter Tourism,43.3614,-5.8494
+Spain,2019,2,52,Asturias,Off Season,43.3614,-5.8494
+Spain,2019,3,60,Asturias,Spring Travel,43.3614,-5.8494
+Spain,2019,4,75,Asturias,Easter Tourism,43.3614,-5.8494
+Spain,2019,5,78,Asturias,Holiday Tourism,43.3614,-5.8494
+Spain,2019,6,85,Asturias,Early Summer,43.3614,-5.8494
+Spain,2019,7,92,Asturias,Summer Peak,43.3614,-5.8494
+Spain,2019,8,95,Asturias,Tourism Peak,43.3614,-5.8494
+Spain,2019,9,88,Asturias,Autumn Travel,43.3614,-5.8494
+Spain,2019,10,75,Asturias,Fall Tourism,43.3614,-5.8494
+Spain,2019,11,65,Asturias,Cultural Tourism,43.3614,-5.8494
+Spain,2019,12,82,Asturias,Holiday Tourism,43.3614,-5.8494
+Spain,2019,1,50,Cantabria,Winter Tourism,43.1828,-3.9878
+Spain,2019,2,55,Cantabria,Cultural Season,43.1828,-3.9878
+Spain,2019,3,62,Cantabria,Spring Travel,43.1828,-3.9878
+Spain,2019,4,75,Cantabria,Easter Tourism,43.1828,-3.9878
+Spain,2019,5,78,Cantabria,Holiday Tourism,43.1828,-3.9878
+Spain,2019,6,85,Cantabria,Early Summer,43.1828,-3.9878
+Spain,2019,7,90,Cantabria,Summer Travel,43.1828,-3.9878
+Spain,2019,8,92,Cantabria,Peak Season,43.1828,-3.9878
+Spain,2019,9,85,Cantabria,Autumn Travel,43.1828,-3.9878
+Spain,2019,10,75,Cantabria,Fall Tourism,43.1828,-3.9878
+Spain,2019,11,68,Cantabria,Cultural Tourism,43.1828,-3.9878
+Spain,2019,12,85,Cantabria,Holiday Tourism,43.1828,-3.9878
+Spain,2019,1,45,Extremadura,Winter Tourism,39.4937,-6.0679
+Spain,2019,2,50,Extremadura,Off Season,39.4937,-6.0679
+Spain,2019,3,60,Extremadura,Spring Travel,39.4937,-6.0679
+Spain,2019,4,75,Extremadura,Easter Tourism,39.4937,-6.0679
+Spain,2019,5,72,Extremadura,Holiday Tourism,39.4937,-6.0679
+Spain,2019,6,70,Extremadura,Early Summer,39.4937,-6.0679
+Spain,2019,7,78,Extremadura,Summer Travel,39.4937,-6.0679
+Spain,2019,8,80,Extremadura,Peak Season,39.4937,-6.0679
+Spain,2019,9,75,Extremadura,Autumn Travel,39.4937,-6.0679
+Spain,2019,10,70,Extremadura,Fall Tourism,39.4937,-6.0679
+Spain,2019,11,65,Extremadura,Cultural Tourism,39.4937,-6.0679
+Spain,2019,12,80,Extremadura,Holiday Tourism,39.4937,-6.0679
+Spain,2019,1,50,Navarre,Winter Tourism,42.6954,-1.6761
+Spain,2019,2,55,Navarre,Cultural Season,42.6954,-1.6761
+Spain,2019,3,65,Navarre,Spring Travel,42.6954,-1.6761
+Spain,2019,4,78,Navarre,Easter Tourism,42.6954,-1.6761
+Spain,2019,5,75,Navarre,Holiday Tourism,42.6954,-1.6761
+Spain,2019,6,80,Navarre,Early Summer,42.6954,-1.6761
+Spain,2019,7,85,Navarre,San Fermin Festival,42.6954,-1.6761
+Spain,2019,8,88,Navarre,Peak Season,42.6954,-1.6761
+Spain,2019,9,80,Navarre,Autumn Travel,42.6954,-1.6761
+Spain,2019,10,75,Navarre,Fall Tourism,42.6954,-1.6761
+Spain,2019,11,68,Navarre,Cultural Tourism,42.6954,-1.6761
+Spain,2019,12,85,Navarre,Holiday Tourism,42.6954,-1.6761
+Spain,2019,1,48,La Rioja,Winter Tourism,42.2871,-2.5396
+Spain,2019,2,52,La Rioja,Off Season,42.2871,-2.5396
+Spain,2019,3,60,La Rioja,Spring Travel,42.2871,-2.5396
+Spain,2019,4,75,La Rioja,Easter Tourism,42.2871,-2.5396
+Spain,2019,5,72,La Rioja,Holiday Tourism,42.2871,-2.5396
+Spain,2019,6,78,La Rioja,Early Summer,42.2871,-2.5396
+Spain,2019,7,85,La Rioja,Summer Travel,42.2871,-2.5396
+Spain,2019,8,88,La Rioja,Peak Season,42.2871,-2.5396
+Spain,2019,9,82,La Rioja,Harvest Tourism,42.2871,-2.5396
+Spain,2019,10,78,La Rioja,Wine Festival,42.2871,-2.5396
+Spain,2019,11,65,La Rioja,Cultural Tourism,42.2871,-2.5396
+Spain,2019,12,82,La Rioja,Holiday Tourism,42.2871,-2.5396
+Spain,2019,1,50,Castile-La Mancha,Winter Tourism,39.2796,-3.0977
+Spain,2019,2,55,Castile-La Mancha,Cultural Tourism,39.2796,-3.0977
+Spain,2019,3,62,Castile-La Mancha,Spring Travel,39.2796,-3.0977
+Spain,2019,4,78,Castile-La Mancha,Easter Tourism,39.2796,-3.0977
+Spain,2019,5,75,Castile-La Mancha,Holiday Tourism,39.2796,-3.0977
+Spain,2019,6,78,Castile-La Mancha,Early Summer,39.2796,-3.0977
+Spain,2019,7,85,Castile-La Mancha,Summer Travel,39.2796,-3.0977
+Spain,2019,8,88,Castile-La Mancha,Peak Season,39.2796,-3.0977
+Spain,2019,9,80,Castile-La Mancha,Autumn Travel,39.2796,-3.0977
+Spain,2019,10,75,Castile-La Mancha,Fall Tourism,39.2796,-3.0977
+Spain,2019,11,68,Castile-La Mancha,Cultural Tourism,39.2796,-3.0977
+Spain,2019,12,85,Castile-La Mancha,Holiday Tourism,39.2796,-3.0977
+Spain,2019,1,52,Murcia,Winter Tourism,37.9922,-1.1307
+Spain,2019,2,55,Murcia,Cultural Season,37.9922,-1.1307
+Spain,2019,3,65,Murcia,Spring Travel,37.9922,-1.1307
+Spain,2019,4,78,Murcia,Easter Tourism,37.9922,-1.1307
+Spain,2019,5,75,Murcia,Holiday Tourism,37.9922,-1.1307
+Spain,2019,6,85,Murcia,Beach Season,37.9922,-1.1307
+Spain,2019,7,95,Murcia,Summer Peak,37.9922,-1.1307
+Spain,2019,8,100,Murcia,Tourism Peak,37.9922,-1.1307
+Spain,2019,9,88,Murcia,Autumn Travel,37.9922,-1.1307
+Spain,2019,10,75,Murcia,Fall Tourism,37.9922,-1.1307
+Spain,2019,11,65,Murcia,Cultural Tourism,37.9922,-1.1307
+Spain,2019,12,85,Murcia,Holiday Tourism,37.9922,-1.1307
+Spain,2020,1,50,Andalusia,Winter Tourism,37.5443,-4.7278
+Spain,2020,2,55,Andalusia,Cultural Season,37.5443,-4.7278
+Spain,2020,3,65,Andalusia,Spring Travel,37.5443,-4.7278
+Spain,2020,4,85,Andalusia,Semana Santa,37.5443,-4.7278
+Spain,2020,5,75,Andalusia,Holiday Tourism,37.5443,-4.7278
+Spain,2020,6,85,Andalusia,Early Summer,37.5443,-4.7278
+Spain,2020,7,95,Andalusia,Summer Peak,37.5443,-4.7278
+Spain,2020,8,100,Andalusia,Beach Tourism Peak,37.5443,-4.7278
+Spain,2020,9,85,Andalusia,Autumn Travel,37.5443,-4.7278
+Spain,2020,10,75,Andalusia,Fall Tourism,37.5443,-4.7278
+Spain,2020,11,65,Andalusia,Cultural Tourism,37.5443,-4.7278
+Spain,2020,12,85,Andalusia,Christmas Tourism,37.5443,-4.7278
+Spain,2020,1,55,Catalonia,Winter Tourism,41.5912,1.5209
+Spain,2020,2,60,Catalonia,Cultural Tourism,41.5912,1.5209
+Spain,2020,3,70,Catalonia,Spring Travel,41.5912,1.5209
+Spain,2020,4,85,Catalonia,Easter Tourism,41.5912,1.5209
+Spain,2020,5,80,Catalonia,Holiday Tourism,41.5912,1.5209
+Spain,2020,6,88,Catalonia,Early Summer,41.5912,1.5209
+Spain,2020,7,98,Catalonia,Summer Peak,41.5912,1.5209
+Spain,2020,8,100,Catalonia,Tourism Peak,41.5912,1.5209
+Spain,2020,9,88,Catalonia,Autumn Travel,41.5912,1.5209
+Spain,2020,10,78,Catalonia,Fall Tourism,41.5912,1.5209
+Spain,2020,11,70,Catalonia,Cultural Season,41.5912,1.5209
+Spain,2020,12,90,Catalonia,Christmas Tourism,41.5912,1.5209
+Spain,2020,1,52,Madrid,Winter Tourism,40.4168,-3.7038
+Spain,2020,2,58,Madrid,Cultural Season,40.4168,-3.7038
+Spain,2020,3,68,Madrid,Spring Travel,40.4168,-3.7038
+Spain,2020,4,82,Madrid,Easter Tourism,40.4168,-3.7038
+Spain,2020,5,78,Madrid,Holiday Tourism,40.4168,-3.7038
+Spain,2020,6,85,Madrid,Early Summer,40.4168,-3.7038
+Spain,2020,7,92,Madrid,Summer Travel,40.4168,-3.7038
+Spain,2020,8,90,Madrid,Peak Season,40.4168,-3.7038
+Spain,2020,9,85,Madrid,Autumn Travel,40.4168,-3.7038
+Spain,2020,10,78,Madrid,Fall Tourism,40.4168,-3.7038
+Spain,2020,11,70,Madrid,Cultural Tourism,40.4168,-3.7038
+Spain,2020,12,88,Madrid,Holiday Tourism,40.4168,-3.7038
+Spain,2020,1,48,Valencia,Winter Tourism,39.4699,-0.3763
+Spain,2020,2,55,Valencia,Cultural Season,39.4699,-0.3763
+Spain,2020,3,75,Valencia,Las Fallas Festival,39.4699,-0.3763
+Spain,2020,4,82,Valencia,Spring Travel,39.4699,-0.3763
+Spain,2020,5,78,Valencia,Holiday Tourism,39.4699,-0.3763
+Spain,2020,6,88,Valencia,Beach Season,39.4699,-0.3763
+Spain,2020,7,98,Valencia,Summer Peak,39.4699,-0.3763
+Spain,2020,8,100,Valencia,Tourism Peak,39.4699,-0.3763
+Spain,2020,9,88,Valencia,Autumn Travel,39.4699,-0.3763
+Spain,2020,10,75,Valencia,Fall Tourism,39.4699,-0.3763
+Spain,2020,11,65,Valencia,Cultural Tourism,39.4699,-0.3763
+Spain,2020,12,85,Valencia,Christmas Tourism,39.4699,-0.3763
+Spain,2020,1,45,Canary Islands,Winter Tourism,28.2916,-16.6291
+Spain,2020,2,50,Canary Islands,Beach Tourism,28.2916,-16.6291
+Spain,2020,3,60,Canary Islands,Spring Travel,28.2916,-16.6291
+Spain,2020,4,70,Canary Islands,Holiday Tourism,28.2916,-16.6291
+Spain,2020,5,75,Canary Islands,Beach Travel,28.2916,-16.6291
+Spain,2020,6,85,Canary Islands,Early Summer,28.2916,-16.6291
+Spain,2020,7,95,Canary Islands,Summer Peak,28.2916,-16.6291
+Spain,2020,8,100,Canary Islands,Peak Season,28.2916,-16.6291
+Spain,2020,9,90,Canary Islands,Autumn Travel,28.2916,-16.6291
+Spain,2020,10,80,Canary Islands,Fall Tourism,28.2916,-16.6291
+Spain,2020,11,70,Canary Islands,Cultural Tourism,28.2916,-16.6291
+Spain,2020,12,90,Canary Islands,Holiday Tourism,28.2916,-16.6291
+Spain,2020,1,50,Andalusia,Winter Tourism,37.5443,-4.7278
+Spain,2020,2,55,Andalusia,Cultural Season,37.5443,-4.7278
+Spain,2020,3,65,Andalusia,Spring Travel,37.5443,-4.7278
+Spain,2020,4,85,Andalusia,Semana Santa,37.5443,-4.7278
+Spain,2020,5,75,Andalusia,Holiday Tourism,37.5443,-4.7278
+Spain,2020,6,85,Andalusia,Early Summer,37.5443,-4.7278
+Spain,2020,7,95,Andalusia,Summer Peak,37.5443,-4.7278
+Spain,2020,8,100,Andalusia,Beach Tourism Peak,37.5443,-4.7278
+Spain,2020,9,85,Andalusia,Autumn Travel,37.5443,-4.7278
+Spain,2020,10,75,Andalusia,Fall Tourism,37.5443,-4.7278
+Spain,2020,11,65,Andalusia,Cultural Tourism,37.5443,-4.7278
+Spain,2020,12,85,Andalusia,Christmas Tourism,37.5443,-4.7278
+Spain,2020,1,55,Catalonia,Winter Tourism,41.5912,1.5209
+Spain,2020,2,60,Catalonia,Cultural Tourism,41.5912,1.5209
+Spain,2020,3,70,Catalonia,Spring Travel,41.5912,1.5209
+Spain,2020,4,85,Catalonia,Easter Tourism,41.5912,1.5209
+Spain,2020,5,80,Catalonia,Holiday Tourism,41.5912,1.5209
+Spain,2020,6,88,Catalonia,Early Summer,41.5912,1.5209
+Spain,2020,7,98,Catalonia,Summer Peak,41.5912,1.5209
+Spain,2020,8,100,Catalonia,Tourism Peak,41.5912,1.5209
+Spain,2020,9,88,Catalonia,Autumn Travel,41.5912,1.5209
+Spain,2020,10,78,Catalonia,Fall Tourism,41.5912,1.5209
+Spain,2020,11,70,Catalonia,Cultural Season,41.5912,1.5209
+Spain,2020,12,90,Catalonia,Christmas Tourism,41.5912,1.5209
+Spain,2020,1,52,Madrid,Winter Tourism,40.4168,-3.7038
+Spain,2020,2,58,Madrid,Cultural Season,40.4168,-3.7038
+Spain,2020,3,68,Madrid,Spring Travel,40.4168,-3.7038
+Spain,2020,4,82,Madrid,Easter Tourism,40.4168,-3.7038
+Spain,2020,5,78,Madrid,Holiday Tourism,40.4168,-3.7038
+Spain,2020,6,85,Madrid,Early Summer,40.4168,-3.7038
+Spain,2020,7,92,Madrid,Summer Travel,40.4168,-3.7038
+Spain,2020,8,90,Madrid,Peak Season,40.4168,-3.7038
+Spain,2020,9,85,Madrid,Autumn Travel,40.4168,-3.7038
+Spain,2020,10,78,Madrid,Fall Tourism,40.4168,-3.7038
+Spain,2020,11,70,Madrid,Cultural Tourism,40.4168,-3.7038
+Spain,2020,12,88,Madrid,Holiday Tourism,40.4168,-3.7038
+Spain,2020,1,48,Valencia,Winter Tourism,39.4699,-0.3763
+Spain,2020,2,55,Valencia,Cultural Season,39.4699,-0.3763
+Spain,2020,3,75,Valencia,Las Fallas Festival,39.4699,-0.3763
+Spain,2020,4,82,Valencia,Spring Travel,39.4699,-0.3763
+Spain,2020,5,78,Valencia,Holiday Tourism,39.4699,-0.3763
+Spain,2020,6,88,Valencia,Beach Season,39.4699,-0.3763
+Spain,2020,7,98,Valencia,Summer Peak,39.4699,-0.3763
+Spain,2020,8,100,Valencia,Tourism Peak,39.4699,-0.3763
+Spain,2020,9,88,Valencia,Autumn Travel,39.4699,-0.3763
+Spain,2020,10,75,Valencia,Fall Tourism,39.4699,-0.3763
+Spain,2020,11,65,Valencia,Cultural Tourism,39.4699,-0.3763
+Spain,2020,12,85,Valencia,Christmas Tourism,39.4699,-0.3763
+Spain,2020,1,45,Canary Islands,Winter Tourism,28.2916,-16.6291
+Spain,2020,2,50,Canary Islands,Beach Tourism,28.2916,-16.6291
+Spain,2020,3,60,Canary Islands,Spring Travel,28.2916,-16.6291
+Spain,2020,4,70,Canary Islands,Holiday Tourism,28.2916,-16.6291
+Spain,2020,5,75,Canary Islands,Beach Travel,28.2916,-16.6291
+Spain,2020,6,85,Canary Islands,Early Summer,28.2916,-16.6291
+Spain,2020,7,95,Canary Islands,Summer Peak,28.2916,-16.6291
+Spain,2020,8,100,Canary Islands,Peak Season,28.2916,-16.6291
+Spain,2020,9,90,Canary Islands,Autumn Travel,28.2916,-16.6291
+Spain,2020,10,80,Canary Islands,Fall Tourism,28.2916,-16.6291
+Spain,2020,11,70,Canary Islands,Cultural Tourism,28.2916,-16.6291
+Spain,2020,12,90,Canary Islands,Holiday Tourism,28.2916,-16.6291
+Spain,2020,1,48,Asturias,Winter Tourism,43.3614,-5.8494
+Spain,2020,2,52,Asturias,Off Season,43.3614,-5.8494
+Spain,2020,3,60,Asturias,Spring Travel,43.3614,-5.8494
+Spain,2020,4,75,Asturias,Easter Tourism,43.3614,-5.8494
+Spain,2020,5,78,Asturias,Holiday Tourism,43.3614,-5.8494
+Spain,2020,6,85,Asturias,Early Summer,43.3614,-5.8494
+Spain,2020,7,92,Asturias,Summer Peak,43.3614,-5.8494
+Spain,2020,8,95,Asturias,Tourism Peak,43.3614,-5.8494
+Spain,2020,9,88,Asturias,Autumn Travel,43.3614,-5.8494
+Spain,2020,10,75,Asturias,Fall Tourism,43.3614,-5.8494
+Spain,2020,11,65,Asturias,Cultural Tourism,43.3614,-5.8494
+Spain,2020,12,82,Asturias,Holiday Tourism,43.3614,-5.8494
+Spain,2020,1,50,Cantabria,Winter Tourism,43.1828,-3.9878
+Spain,2020,2,55,Cantabria,Cultural Season,43.1828,-3.9878
+Spain,2020,3,62,Cantabria,Spring Travel,43.1828,-3.9878
+Spain,2020,4,75,Cantabria,Easter Tourism,43.1828,-3.9878
+Spain,2020,5,78,Cantabria,Holiday Tourism,43.1828,-3.9878
+Spain,2020,6,85,Cantabria,Early Summer,43.1828,-3.9878
+Spain,2020,7,90,Cantabria,Summer Travel,43.1828,-3.9878
+Spain,2020,8,92,Cantabria,Peak Season,43.1828,-3.9878
+Spain,2020,9,85,Cantabria,Autumn Travel,43.1828,-3.9878
+Spain,2020,10,75,Cantabria,Fall Tourism,43.1828,-3.9878
+Spain,2020,11,68,Cantabria,Cultural Tourism,43.1828,-3.9878
+Spain,2020,12,85,Cantabria,Holiday Tourism,43.1828,-3.9878
+Spain,2020,1,45,Extremadura,Winter Tourism,39.4937,-6.0679
+Spain,2020,2,50,Extremadura,Off Season,39.4937,-6.0679
+Spain,2020,3,60,Extremadura,Spring Travel,39.4937,-6.0679
+Spain,2020,4,75,Extremadura,Easter Tourism,39.4937,-6.0679
+Spain,2020,5,72,Extremadura,Holiday Tourism,39.4937,-6.0679
+Spain,2020,6,70,Extremadura,Early Summer,39.4937,-6.0679
+Spain,2020,7,78,Extremadura,Summer Travel,39.4937,-6.0679
+Spain,2020,8,80,Extremadura,Peak Season,39.4937,-6.0679
+Spain,2020,9,75,Extremadura,Autumn Travel,39.4937,-6.0679
+Spain,2020,10,70,Extremadura,Fall Tourism,39.4937,-6.0679
+Spain,2020,11,65,Extremadura,Cultural Tourism,39.4937,-6.0679
+Spain,2020,12,80,Extremadura,Holiday Tourism,39.4937,-6.0679
+Spain,2020,1,50,Navarre,Winter Tourism,42.6954,-1.6761
+Spain,2020,2,55,Navarre,Cultural Season,42.6954,-1.6761
+Spain,2020,3,65,Navarre,Spring Travel,42.6954,-1.6761
+Spain,2020,4,78,Navarre,Easter Tourism,42.6954,-1.6761
+Spain,2020,5,75,Navarre,Holiday Tourism,42.6954,-1.6761
+Spain,2020,6,80,Navarre,Early Summer,42.6954,-1.6761
+Spain,2020,7,85,Navarre,San Fermin Festival,42.6954,-1.6761
+Spain,2020,8,88,Navarre,Peak Season,42.6954,-1.6761
+Spain,2020,9,80,Navarre,Autumn Travel,42.6954,-1.6761
+Spain,2020,10,75,Navarre,Fall Tourism,42.6954,-1.6761
+Spain,2020,11,68,Navarre,Cultural Tourism,42.6954,-1.6761
+Spain,2020,12,85,Navarre,Holiday Tourism,42.6954,-1.6761
+Spain,2020,1,48,La Rioja,Winter Tourism,42.2871,-2.5396
+Spain,2020,2,52,La Rioja,Off Season,42.2871,-2.5396
+Spain,2020,3,60,La Rioja,Spring Travel,42.2871,-2.5396
+Spain,2020,4,75,La Rioja,Easter Tourism,42.2871,-2.5396
+Spain,2020,5,72,La Rioja,Holiday Tourism,42.2871,-2.5396
+Spain,2020,6,78,La Rioja,Early Summer,42.2871,-2.5396
+Spain,2020,7,85,La Rioja,Summer Travel,42.2871,-2.5396
+Spain,2020,8,88,La Rioja,Peak Season,42.2871,-2.5396
+Spain,2020,9,82,La Rioja,Harvest Tourism,42.2871,-2.5396
+Spain,2020,10,78,La Rioja,Wine Festival,42.2871,-2.5396
+Spain,2020,11,65,La Rioja,Cultural Tourism,42.2871,-2.5396
+Spain,2020,12,82,La Rioja,Holiday Tourism,42.2871,-2.5396
+Spain,2020,1,50,Castile-La Mancha,Winter Tourism,39.2796,-3.0977
+Spain,2020,2,55,Castile-La Mancha,Cultural Tourism,39.2796,-3.0977
+Spain,2020,3,62,Castile-La Mancha,Spring Travel,39.2796,-3.0977
+Spain,2020,4,78,Castile-La Mancha,Easter Tourism,39.2796,-3.0977
+Spain,2020,5,75,Castile-La Mancha,Holiday Tourism,39.2796,-3.0977
+Spain,2020,6,78,Castile-La Mancha,Early Summer,39.2796,-3.0977
+Spain,2020,7,85,Castile-La Mancha,Summer Travel,39.2796,-3.0977
+Spain,2020,8,88,Castile-La Mancha,Peak Season,39.2796,-3.0977
+Spain,2020,9,80,Castile-La Mancha,Autumn Travel,39.2796,-3.0977
+Spain,2020,10,75,Castile-La Mancha,Fall Tourism,39.2796,-3.0977
+Spain,2020,11,68,Castile-La Mancha,Cultural Tourism,39.2796,-3.0977
+Spain,2020,12,85,Castile-La Mancha,Holiday Tourism,39.2796,-3.0977
+Spain,2020,1,52,Murcia,Winter Tourism,37.9922,-1.1307
+Spain,2020,2,55,Murcia,Cultural Season,37.9922,-1.1307
+Spain,2020,3,65,Murcia,Spring Travel,37.9922,-1.1307
+Spain,2020,4,78,Murcia,Easter Tourism,37.9922,-1.1307
+Spain,2020,5,75,Murcia,Holiday Tourism,37.9922,-1.1307
+Spain,2020,6,85,Murcia,Beach Season,37.9922,-1.1307
+Spain,2020,7,95,Murcia,Summer Peak,37.9922,-1.1307
+Spain,2020,8,100,Murcia,Tourism Peak,37.9922,-1.1307
+Spain,2020,9,88,Murcia,Autumn Travel,37.9922,-1.1307
+Spain,2020,10,75,Murcia,Fall Tourism,37.9922,-1.1307
+Spain,2020,11,65,Murcia,Cultural Tourism,37.9922,-1.1307
+Spain,2020,12,85,Murcia,Holiday Tourism,37.9922,-1.1307
+Spain,2021,1,50,Andalusia,Winter Tourism,37.5443,-4.7278
+Spain,2021,2,55,Andalusia,Cultural Season,37.5443,-4.7278
+Spain,2021,3,65,Andalusia,Spring Travel,37.5443,-4.7278
+Spain,2021,4,85,Andalusia,Semana Santa,37.5443,-4.7278
+Spain,2021,5,75,Andalusia,Holiday Tourism,37.5443,-4.7278
+Spain,2021,6,85,Andalusia,Early Summer,37.5443,-4.7278
+Spain,2021,7,95,Andalusia,Summer Peak,37.5443,-4.7278
+Spain,2021,8,100,Andalusia,Beach Tourism Peak,37.5443,-4.7278
+Spain,2021,9,85,Andalusia,Autumn Travel,37.5443,-4.7278
+Spain,2021,10,75,Andalusia,Fall Tourism,37.5443,-4.7278
+Spain,2021,11,65,Andalusia,Cultural Tourism,37.5443,-4.7278
+Spain,2021,12,85,Andalusia,Christmas Tourism,37.5443,-4.7278
+Spain,2021,1,55,Catalonia,Winter Tourism,41.5912,1.5209
+Spain,2021,2,60,Catalonia,Cultural Tourism,41.5912,1.5209
+Spain,2021,3,70,Catalonia,Spring Travel,41.5912,1.5209
+Spain,2021,4,85,Catalonia,Easter Tourism,41.5912,1.5209
+Spain,2021,5,80,Catalonia,Holiday Tourism,41.5912,1.5209
+Spain,2021,6,88,Catalonia,Early Summer,41.5912,1.5209
+Spain,2021,7,98,Catalonia,Summer Peak,41.5912,1.5209
+Spain,2021,8,100,Catalonia,Tourism Peak,41.5912,1.5209
+Spain,2021,9,88,Catalonia,Autumn Travel,41.5912,1.5209
+Spain,2021,10,78,Catalonia,Fall Tourism,41.5912,1.5209
+Spain,2021,11,70,Catalonia,Cultural Season,41.5912,1.5209
+Spain,2021,12,90,Catalonia,Christmas Tourism,41.5912,1.5209
+Spain,2021,1,52,Madrid,Winter Tourism,40.4168,-3.7038
+Spain,2021,2,58,Madrid,Cultural Season,40.4168,-3.7038
+Spain,2021,3,68,Madrid,Spring Travel,40.4168,-3.7038
+Spain,2021,4,82,Madrid,Easter Tourism,40.4168,-3.7038
+Spain,2021,5,78,Madrid,Holiday Tourism,40.4168,-3.7038
+Spain,2021,6,85,Madrid,Early Summer,40.4168,-3.7038
+Spain,2021,7,92,Madrid,Summer Travel,40.4168,-3.7038
+Spain,2021,8,90,Madrid,Peak Season,40.4168,-3.7038
+Spain,2021,9,85,Madrid,Autumn Travel,40.4168,-3.7038
+Spain,2021,10,78,Madrid,Fall Tourism,40.4168,-3.7038
+Spain,2021,11,70,Madrid,Cultural Tourism,40.4168,-3.7038
+Spain,2021,12,88,Madrid,Holiday Tourism,40.4168,-3.7038
+Spain,2021,1,48,Valencia,Winter Tourism,39.4699,-0.3763
+Spain,2021,2,55,Valencia,Cultural Season,39.4699,-0.3763
+Spain,2021,3,75,Valencia,Las Fallas Festival,39.4699,-0.3763
+Spain,2021,4,82,Valencia,Spring Travel,39.4699,-0.3763
+Spain,2021,5,78,Valencia,Holiday Tourism,39.4699,-0.3763
+Spain,2021,6,88,Valencia,Beach Season,39.4699,-0.3763
+Spain,2021,7,98,Valencia,Summer Peak,39.4699,-0.3763
+Spain,2021,8,100,Valencia,Tourism Peak,39.4699,-0.3763
+Spain,2021,9,88,Valencia,Autumn Travel,39.4699,-0.3763
+Spain,2021,10,75,Valencia,Fall Tourism,39.4699,-0.3763
+Spain,2021,11,65,Valencia,Cultural Tourism,39.4699,-0.3763
+Spain,2021,12,85,Valencia,Christmas Tourism,39.4699,-0.3763
+Spain,2021,1,45,Canary Islands,Winter Tourism,28.2916,-16.6291
+Spain,2021,2,50,Canary Islands,Beach Tourism,28.2916,-16.6291
+Spain,2021,3,60,Canary Islands,Spring Travel,28.2916,-16.6291
+Spain,2021,4,70,Canary Islands,Holiday Tourism,28.2916,-16.6291
+Spain,2021,5,75,Canary Islands,Beach Travel,28.2916,-16.6291
+Spain,2021,6,85,Canary Islands,Early Summer,28.2916,-16.6291
+Spain,2021,7,95,Canary Islands,Summer Peak,28.2916,-16.6291
+Spain,2021,8,100,Canary Islands,Peak Season,28.2916,-16.6291
+Spain,2021,9,90,Canary Islands,Autumn Travel,28.2916,-16.6291
+Spain,2021,10,80,Canary Islands,Fall Tourism,28.2916,-16.6291
+Spain,2021,11,70,Canary Islands,Cultural Tourism,28.2916,-16.6291
+Spain,2021,12,90,Canary Islands,Holiday Tourism,28.2916,-16.6291
+Spain,2021,1,50,Andalusia,Winter Tourism,37.5443,-4.7278
+Spain,2021,2,55,Andalusia,Cultural Season,37.5443,-4.7278
+Spain,2021,3,65,Andalusia,Spring Travel,37.5443,-4.7278
+Spain,2021,4,85,Andalusia,Semana Santa,37.5443,-4.7278
+Spain,2021,5,75,Andalusia,Holiday Tourism,37.5443,-4.7278
+Spain,2021,6,85,Andalusia,Early Summer,37.5443,-4.7278
+Spain,2021,7,95,Andalusia,Summer Peak,37.5443,-4.7278
+Spain,2021,8,100,Andalusia,Beach Tourism Peak,37.5443,-4.7278
+Spain,2021,9,85,Andalusia,Autumn Travel,37.5443,-4.7278
+Spain,2021,10,75,Andalusia,Fall Tourism,37.5443,-4.7278
+Spain,2021,11,65,Andalusia,Cultural Tourism,37.5443,-4.7278
+Spain,2021,12,85,Andalusia,Christmas Tourism,37.5443,-4.7278
+Spain,2021,1,55,Catalonia,Winter Tourism,41.5912,1.5209
+Spain,2021,2,60,Catalonia,Cultural Tourism,41.5912,1.5209
+Spain,2021,3,70,Catalonia,Spring Travel,41.5912,1.5209
+Spain,2021,4,85,Catalonia,Easter Tourism,41.5912,1.5209
+Spain,2021,5,80,Catalonia,Holiday Tourism,41.5912,1.5209
+Spain,2021,6,88,Catalonia,Early Summer,41.5912,1.5209
+Spain,2021,7,98,Catalonia,Summer Peak,41.5912,1.5209
+Spain,2021,8,100,Catalonia,Tourism Peak,41.5912,1.5209
+Spain,2021,9,88,Catalonia,Autumn Travel,41.5912,1.5209
+Spain,2021,10,78,Catalonia,Fall Tourism,41.5912,1.5209
+Spain,2021,11,70,Catalonia,Cultural Season,41.5912,1.5209
+Spain,2021,12,90,Catalonia,Christmas Tourism,41.5912,1.5209
+Spain,2021,1,52,Madrid,Winter Tourism,40.4168,-3.7038
+Spain,2021,2,58,Madrid,Cultural Season,40.4168,-3.7038
+Spain,2021,3,68,Madrid,Spring Travel,40.4168,-3.7038
+Spain,2021,4,82,Madrid,Easter Tourism,40.4168,-3.7038
+Spain,2021,5,78,Madrid,Holiday Tourism,40.4168,-3.7038
+Spain,2021,6,85,Madrid,Early Summer,40.4168,-3.7038
+Spain,2021,7,92,Madrid,Summer Travel,40.4168,-3.7038
+Spain,2021,8,90,Madrid,Peak Season,40.4168,-3.7038
+Spain,2021,9,85,Madrid,Autumn Travel,40.4168,-3.7038
+Spain,2021,10,78,Madrid,Fall Tourism,40.4168,-3.7038
+Spain,2021,11,70,Madrid,Cultural Tourism,40.4168,-3.7038
+Spain,2021,12,88,Madrid,Holiday Tourism,40.4168,-3.7038
+Spain,2021,1,48,Valencia,Winter Tourism,39.4699,-0.3763
+Spain,2021,2,55,Valencia,Cultural Season,39.4699,-0.3763
+Spain,2021,3,75,Valencia,Las Fallas Festival,39.4699,-0.3763
+Spain,2021,4,82,Valencia,Spring Travel,39.4699,-0.3763
+Spain,2021,5,78,Valencia,Holiday Tourism,39.4699,-0.3763
+Spain,2021,6,88,Valencia,Beach Season,39.4699,-0.3763
+Spain,2021,7,98,Valencia,Summer Peak,39.4699,-0.3763
+Spain,2021,8,100,Valencia,Tourism Peak,39.4699,-0.3763
+Spain,2021,9,88,Valencia,Autumn Travel,39.4699,-0.3763
+Spain,2021,10,75,Valencia,Fall Tourism,39.4699,-0.3763
+Spain,2021,11,65,Valencia,Cultural Tourism,39.4699,-0.3763
+Spain,2021,12,85,Valencia,Christmas Tourism,39.4699,-0.3763
+Spain,2021,1,45,Canary Islands,Winter Tourism,28.2916,-16.6291
+Spain,2021,2,50,Canary Islands,Beach Tourism,28.2916,-16.6291
+Spain,2021,3,60,Canary Islands,Spring Travel,28.2916,-16.6291
+Spain,2021,4,70,Canary Islands,Holiday Tourism,28.2916,-16.6291
+Spain,2021,5,75,Canary Islands,Beach Travel,28.2916,-16.6291
+Spain,2021,6,85,Canary Islands,Early Summer,28.2916,-16.6291
+Spain,2021,7,95,Canary Islands,Summer Peak,28.2916,-16.6291
+Spain,2021,8,100,Canary Islands,Peak Season,28.2916,-16.6291
+Spain,2021,9,90,Canary Islands,Autumn Travel,28.2916,-16.6291
+Spain,2021,10,80,Canary Islands,Fall Tourism,28.2916,-16.6291
+Spain,2021,11,70,Canary Islands,Cultural Tourism,28.2916,-16.6291
+Spain,2021,12,90,Canary Islands,Holiday Tourism,28.2916,-16.6291
+Spain,2021,1,48,Asturias,Winter Tourism,43.3614,-5.8494
+Spain,2021,2,52,Asturias,Off Season,43.3614,-5.8494
+Spain,2021,3,60,Asturias,Spring Travel,43.3614,-5.8494
+Spain,2021,4,75,Asturias,Easter Tourism,43.3614,-5.8494
+Spain,2021,5,78,Asturias,Holiday Tourism,43.3614,-5.8494
+Spain,2021,6,85,Asturias,Early Summer,43.3614,-5.8494
+Spain,2021,7,92,Asturias,Summer Peak,43.3614,-5.8494
+Spain,2021,8,95,Asturias,Tourism Peak,43.3614,-5.8494
+Spain,2021,9,88,Asturias,Autumn Travel,43.3614,-5.8494
+Spain,2021,10,75,Asturias,Fall Tourism,43.3614,-5.8494
+Spain,2021,11,65,Asturias,Cultural Tourism,43.3614,-5.8494
+Spain,2021,12,82,Asturias,Holiday Tourism,43.3614,-5.8494
+Spain,2021,1,50,Cantabria,Winter Tourism,43.1828,-3.9878
+Spain,2021,2,55,Cantabria,Cultural Season,43.1828,-3.9878
+Spain,2021,3,62,Cantabria,Spring Travel,43.1828,-3.9878
+Spain,2021,4,75,Cantabria,Easter Tourism,43.1828,-3.9878
+Spain,2021,5,78,Cantabria,Holiday Tourism,43.1828,-3.9878
+Spain,2021,6,85,Cantabria,Early Summer,43.1828,-3.9878
+Spain,2021,7,90,Cantabria,Summer Travel,43.1828,-3.9878
+Spain,2021,8,92,Cantabria,Peak Season,43.1828,-3.9878
+Spain,2021,9,85,Cantabria,Autumn Travel,43.1828,-3.9878
+Spain,2021,10,75,Cantabria,Fall Tourism,43.1828,-3.9878
+Spain,2021,11,68,Cantabria,Cultural Tourism,43.1828,-3.9878
+Spain,2021,12,85,Cantabria,Holiday Tourism,43.1828,-3.9878
+Spain,2021,1,45,Extremadura,Winter Tourism,39.4937,-6.0679
+Spain,2021,2,50,Extremadura,Off Season,39.4937,-6.0679
+Spain,2021,3,60,Extremadura,Spring Travel,39.4937,-6.0679
+Spain,2021,4,75,Extremadura,Easter Tourism,39.4937,-6.0679
+Spain,2021,5,72,Extremadura,Holiday Tourism,39.4937,-6.0679
+Spain,2021,6,70,Extremadura,Early Summer,39.4937,-6.0679
+Spain,2021,7,78,Extremadura,Summer Travel,39.4937,-6.0679
+Spain,2021,8,80,Extremadura,Peak Season,39.4937,-6.0679
+Spain,2021,9,75,Extremadura,Autumn Travel,39.4937,-6.0679
+Spain,2021,10,70,Extremadura,Fall Tourism,39.4937,-6.0679
+Spain,2021,11,65,Extremadura,Cultural Tourism,39.4937,-6.0679
+Spain,2021,12,80,Extremadura,Holiday Tourism,39.4937,-6.0679
+Spain,2021,1,50,Navarre,Winter Tourism,42.6954,-1.6761
+Spain,2021,2,55,Navarre,Cultural Season,42.6954,-1.6761
+Spain,2021,3,65,Navarre,Spring Travel,42.6954,-1.6761
+Spain,2021,4,78,Navarre,Easter Tourism,42.6954,-1.6761
+Spain,2021,5,75,Navarre,Holiday Tourism,42.6954,-1.6761
+Spain,2021,6,80,Navarre,Early Summer,42.6954,-1.6761
+Spain,2021,7,85,Navarre,San Fermin Festival,42.6954,-1.6761
+Spain,2021,8,88,Navarre,Peak Season,42.6954,-1.6761
+Spain,2021,9,80,Navarre,Autumn Travel,42.6954,-1.6761
+Spain,2021,10,75,Navarre,Fall Tourism,42.6954,-1.6761
+Spain,2021,11,68,Navarre,Cultural Tourism,42.6954,-1.6761
+Spain,2021,12,85,Navarre,Holiday Tourism,42.6954,-1.6761
+Spain,2021,1,48,La Rioja,Winter Tourism,42.2871,-2.5396
+Spain,2021,2,52,La Rioja,Off Season,42.2871,-2.5396
+Spain,2021,3,60,La Rioja,Spring Travel,42.2871,-2.5396
+Spain,2021,4,75,La Rioja,Easter Tourism,42.2871,-2.5396
+Spain,2021,5,72,La Rioja,Holiday Tourism,42.2871,-2.5396
+Spain,2021,6,78,La Rioja,Early Summer,42.2871,-2.5396
+Spain,2021,7,85,La Rioja,Summer Travel,42.2871,-2.5396
+Spain,2021,8,88,La Rioja,Peak Season,42.2871,-2.5396
+Spain,2021,9,82,La Rioja,Harvest Tourism,42.2871,-2.5396
+Spain,2021,10,78,La Rioja,Wine Festival,42.2871,-2.5396
+Spain,2021,11,65,La Rioja,Cultural Tourism,42.2871,-2.5396
+Spain,2021,12,82,La Rioja,Holiday Tourism,42.2871,-2.5396
+Spain,2021,1,50,Castile-La Mancha,Winter Tourism,39.2796,-3.0977
+Spain,2021,2,55,Castile-La Mancha,Cultural Tourism,39.2796,-3.0977
+Spain,2021,3,62,Castile-La Mancha,Spring Travel,39.2796,-3.0977
+Spain,2021,4,78,Castile-La Mancha,Easter Tourism,39.2796,-3.0977
+Spain,2021,5,75,Castile-La Mancha,Holiday Tourism,39.2796,-3.0977
+Spain,2021,6,78,Castile-La Mancha,Early Summer,39.2796,-3.0977
+Spain,2021,7,85,Castile-La Mancha,Summer Travel,39.2796,-3.0977
+Spain,2021,8,88,Castile-La Mancha,Peak Season,39.2796,-3.0977
+Spain,2021,9,80,Castile-La Mancha,Autumn Travel,39.2796,-3.0977
+Spain,2021,10,75,Castile-La Mancha,Fall Tourism,39.2796,-3.0977
+Spain,2021,11,68,Castile-La Mancha,Cultural Tourism,39.2796,-3.0977
+Spain,2021,12,85,Castile-La Mancha,Holiday Tourism,39.2796,-3.0977
+Spain,2021,1,52,Murcia,Winter Tourism,37.9922,-1.1307
+Spain,2021,2,55,Murcia,Cultural Season,37.9922,-1.1307
+Spain,2021,3,65,Murcia,Spring Travel,37.9922,-1.1307
+Spain,2021,4,78,Murcia,Easter Tourism,37.9922,-1.1307
+Spain,2021,5,75,Murcia,Holiday Tourism,37.9922,-1.1307
+Spain,2021,6,85,Murcia,Beach Season,37.9922,-1.1307
+Spain,2021,7,95,Murcia,Summer Peak,37.9922,-1.1307
+Spain,2021,8,100,Murcia,Tourism Peak,37.9922,-1.1307
+Spain,2021,9,88,Murcia,Autumn Travel,37.9922,-1.1307
+Spain,2021,10,75,Murcia,Fall Tourism,37.9922,-1.1307
+Spain,2021,11,65,Murcia,Cultural Tourism,37.9922,-1.1307
+Spain,2021,12,85,Murcia,Holiday Tourism,37.9922,-1.1307
+Spain,2022,1,50,Andalusia,Winter Tourism,37.5443,-4.7278
+Spain,2022,2,55,Andalusia,Cultural Season,37.5443,-4.7278
+Spain,2022,3,65,Andalusia,Spring Travel,37.5443,-4.7278
+Spain,2022,4,85,Andalusia,Semana Santa,37.5443,-4.7278
+Spain,2022,5,75,Andalusia,Holiday Tourism,37.5443,-4.7278
+Spain,2022,6,85,Andalusia,Early Summer,37.5443,-4.7278
+Spain,2022,7,95,Andalusia,Summer Peak,37.5443,-4.7278
+Spain,2022,8,100,Andalusia,Beach Tourism Peak,37.5443,-4.7278
+Spain,2022,9,85,Andalusia,Autumn Travel,37.5443,-4.7278
+Spain,2022,10,75,Andalusia,Fall Tourism,37.5443,-4.7278
+Spain,2022,11,65,Andalusia,Cultural Tourism,37.5443,-4.7278
+Spain,2022,12,85,Andalusia,Christmas Tourism,37.5443,-4.7278
+Spain,2022,1,55,Catalonia,Winter Tourism,41.5912,1.5209
+Spain,2022,2,60,Catalonia,Cultural Tourism,41.5912,1.5209
+Spain,2022,3,70,Catalonia,Spring Travel,41.5912,1.5209
+Spain,2022,4,85,Catalonia,Easter Tourism,41.5912,1.5209
+Spain,2022,5,80,Catalonia,Holiday Tourism,41.5912,1.5209
+Spain,2022,6,88,Catalonia,Early Summer,41.5912,1.5209
+Spain,2022,7,98,Catalonia,Summer Peak,41.5912,1.5209
+Spain,2022,8,100,Catalonia,Tourism Peak,41.5912,1.5209
+Spain,2022,9,88,Catalonia,Autumn Travel,41.5912,1.5209
+Spain,2022,10,78,Catalonia,Fall Tourism,41.5912,1.5209
+Spain,2022,11,70,Catalonia,Cultural Season,41.5912,1.5209
+Spain,2022,12,90,Catalonia,Christmas Tourism,41.5912,1.5209
+Spain,2022,1,52,Madrid,Winter Tourism,40.4168,-3.7038
+Spain,2022,2,58,Madrid,Cultural Season,40.4168,-3.7038
+Spain,2022,3,68,Madrid,Spring Travel,40.4168,-3.7038
+Spain,2022,4,82,Madrid,Easter Tourism,40.4168,-3.7038
+Spain,2022,5,78,Madrid,Holiday Tourism,40.4168,-3.7038
+Spain,2022,6,85,Madrid,Early Summer,40.4168,-3.7038
+Spain,2022,7,92,Madrid,Summer Travel,40.4168,-3.7038
+Spain,2022,8,90,Madrid,Peak Season,40.4168,-3.7038
+Spain,2022,9,85,Madrid,Autumn Travel,40.4168,-3.7038
+Spain,2022,10,78,Madrid,Fall Tourism,40.4168,-3.7038
+Spain,2022,11,70,Madrid,Cultural Tourism,40.4168,-3.7038
+Spain,2022,12,88,Madrid,Holiday Tourism,40.4168,-3.7038
+Spain,2022,1,48,Valencia,Winter Tourism,39.4699,-0.3763
+Spain,2022,2,55,Valencia,Cultural Season,39.4699,-0.3763
+Spain,2022,3,75,Valencia,Las Fallas Festival,39.4699,-0.3763
+Spain,2022,4,82,Valencia,Spring Travel,39.4699,-0.3763
+Spain,2022,5,78,Valencia,Holiday Tourism,39.4699,-0.3763
+Spain,2022,6,88,Valencia,Beach Season,39.4699,-0.3763
+Spain,2022,7,98,Valencia,Summer Peak,39.4699,-0.3763
+Spain,2022,8,100,Valencia,Tourism Peak,39.4699,-0.3763
+Spain,2022,9,88,Valencia,Autumn Travel,39.4699,-0.3763
+Spain,2022,10,75,Valencia,Fall Tourism,39.4699,-0.3763
+Spain,2022,11,65,Valencia,Cultural Tourism,39.4699,-0.3763
+Spain,2022,12,85,Valencia,Christmas Tourism,39.4699,-0.3763
+Spain,2022,1,45,Canary Islands,Winter Tourism,28.2916,-16.6291
+Spain,2022,2,50,Canary Islands,Beach Tourism,28.2916,-16.6291
+Spain,2022,3,60,Canary Islands,Spring Travel,28.2916,-16.6291
+Spain,2022,4,70,Canary Islands,Holiday Tourism,28.2916,-16.6291
+Spain,2022,5,75,Canary Islands,Beach Travel,28.2916,-16.6291
+Spain,2022,6,85,Canary Islands,Early Summer,28.2916,-16.6291
+Spain,2022,7,95,Canary Islands,Summer Peak,28.2916,-16.6291
+Spain,2022,8,100,Canary Islands,Peak Season,28.2916,-16.6291
+Spain,2022,9,90,Canary Islands,Autumn Travel,28.2916,-16.6291
+Spain,2022,10,80,Canary Islands,Fall Tourism,28.2916,-16.6291
+Spain,2022,11,70,Canary Islands,Cultural Tourism,28.2916,-16.6291
+Spain,2022,12,90,Canary Islands,Holiday Tourism,28.2916,-16.6291
+Spain,2022,1,50,Andalusia,Winter Tourism,37.5443,-4.7278
+Spain,2022,2,55,Andalusia,Cultural Season,37.5443,-4.7278
+Spain,2022,3,65,Andalusia,Spring Travel,37.5443,-4.7278
+Spain,2022,4,85,Andalusia,Semana Santa,37.5443,-4.7278
+Spain,2022,5,75,Andalusia,Holiday Tourism,37.5443,-4.7278
+Spain,2022,6,85,Andalusia,Early Summer,37.5443,-4.7278
+Spain,2022,7,95,Andalusia,Summer Peak,37.5443,-4.7278
+Spain,2022,8,100,Andalusia,Beach Tourism Peak,37.5443,-4.7278
+Spain,2022,9,85,Andalusia,Autumn Travel,37.5443,-4.7278
+Spain,2022,10,75,Andalusia,Fall Tourism,37.5443,-4.7278
+Spain,2022,11,65,Andalusia,Cultural Tourism,37.5443,-4.7278
+Spain,2022,12,85,Andalusia,Christmas Tourism,37.5443,-4.7278
+Spain,2022,1,55,Catalonia,Winter Tourism,41.5912,1.5209
+Spain,2022,2,60,Catalonia,Cultural Tourism,41.5912,1.5209
+Spain,2022,3,70,Catalonia,Spring Travel,41.5912,1.5209
+Spain,2022,4,85,Catalonia,Easter Tourism,41.5912,1.5209
+Spain,2022,5,80,Catalonia,Holiday Tourism,41.5912,1.5209
+Spain,2022,6,88,Catalonia,Early Summer,41.5912,1.5209
+Spain,2022,7,98,Catalonia,Summer Peak,41.5912,1.5209
+Spain,2022,8,100,Catalonia,Tourism Peak,41.5912,1.5209
+Spain,2022,9,88,Catalonia,Autumn Travel,41.5912,1.5209
+Spain,2022,10,78,Catalonia,Fall Tourism,41.5912,1.5209
+Spain,2022,11,70,Catalonia,Cultural Season,41.5912,1.5209
+Spain,2022,12,90,Catalonia,Christmas Tourism,41.5912,1.5209
+Spain,2022,1,52,Madrid,Winter Tourism,40.4168,-3.7038
+Spain,2022,2,58,Madrid,Cultural Season,40.4168,-3.7038
+Spain,2022,3,68,Madrid,Spring Travel,40.4168,-3.7038
+Spain,2022,4,82,Madrid,Easter Tourism,40.4168,-3.7038
+Spain,2022,5,78,Madrid,Holiday Tourism,40.4168,-3.7038
+Spain,2022,6,85,Madrid,Early Summer,40.4168,-3.7038
+Spain,2022,7,92,Madrid,Summer Travel,40.4168,-3.7038
+Spain,2022,8,90,Madrid,Peak Season,40.4168,-3.7038
+Spain,2022,9,85,Madrid,Autumn Travel,40.4168,-3.7038
+Spain,2022,10,78,Madrid,Fall Tourism,40.4168,-3.7038
+Spain,2022,11,70,Madrid,Cultural Tourism,40.4168,-3.7038
+Spain,2022,12,88,Madrid,Holiday Tourism,40.4168,-3.7038
+Spain,2022,1,48,Valencia,Winter Tourism,39.4699,-0.3763
+Spain,2022,2,55,Valencia,Cultural Season,39.4699,-0.3763
+Spain,2022,3,75,Valencia,Las Fallas Festival,39.4699,-0.3763
+Spain,2022,4,82,Valencia,Spring Travel,39.4699,-0.3763
+Spain,2022,5,78,Valencia,Holiday Tourism,39.4699,-0.3763
+Spain,2022,6,88,Valencia,Beach Season,39.4699,-0.3763
+Spain,2022,7,98,Valencia,Summer Peak,39.4699,-0.3763
+Spain,2022,8,100,Valencia,Tourism Peak,39.4699,-0.3763
+Spain,2022,9,88,Valencia,Autumn Travel,39.4699,-0.3763
+Spain,2022,10,75,Valencia,Fall Tourism,39.4699,-0.3763
+Spain,2022,11,65,Valencia,Cultural Tourism,39.4699,-0.3763
+Spain,2022,12,85,Valencia,Christmas Tourism,39.4699,-0.3763
+Spain,2022,1,45,Canary Islands,Winter Tourism,28.2916,-16.6291
+Spain,2022,2,50,Canary Islands,Beach Tourism,28.2916,-16.6291
+Spain,2022,3,60,Canary Islands,Spring Travel,28.2916,-16.6291
+Spain,2022,4,70,Canary Islands,Holiday Tourism,28.2916,-16.6291
+Spain,2022,5,75,Canary Islands,Beach Travel,28.2916,-16.6291
+Spain,2022,6,85,Canary Islands,Early Summer,28.2916,-16.6291
+Spain,2022,7,95,Canary Islands,Summer Peak,28.2916,-16.6291
+Spain,2022,8,100,Canary Islands,Peak Season,28.2916,-16.6291
+Spain,2022,9,90,Canary Islands,Autumn Travel,28.2916,-16.6291
+Spain,2022,10,80,Canary Islands,Fall Tourism,28.2916,-16.6291
+Spain,2022,11,70,Canary Islands,Cultural Tourism,28.2916,-16.6291
+Spain,2022,12,90,Canary Islands,Holiday Tourism,28.2916,-16.6291
+Spain,2022,1,48,Asturias,Winter Tourism,43.3614,-5.8494
+Spain,2022,2,52,Asturias,Off Season,43.3614,-5.8494
+Spain,2022,3,60,Asturias,Spring Travel,43.3614,-5.8494
+Spain,2022,4,75,Asturias,Easter Tourism,43.3614,-5.8494
+Spain,2022,5,78,Asturias,Holiday Tourism,43.3614,-5.8494
+Spain,2022,6,85,Asturias,Early Summer,43.3614,-5.8494
+Spain,2022,7,92,Asturias,Summer Peak,43.3614,-5.8494
+Spain,2022,8,95,Asturias,Tourism Peak,43.3614,-5.8494
+Spain,2022,9,88,Asturias,Autumn Travel,43.3614,-5.8494
+Spain,2022,10,75,Asturias,Fall Tourism,43.3614,-5.8494
+Spain,2022,11,65,Asturias,Cultural Tourism,43.3614,-5.8494
+Spain,2022,12,82,Asturias,Holiday Tourism,43.3614,-5.8494
+Spain,2022,1,50,Cantabria,Winter Tourism,43.1828,-3.9878
+Spain,2022,2,55,Cantabria,Cultural Season,43.1828,-3.9878
+Spain,2022,3,62,Cantabria,Spring Travel,43.1828,-3.9878
+Spain,2022,4,75,Cantabria,Easter Tourism,43.1828,-3.9878
+Spain,2022,5,78,Cantabria,Holiday Tourism,43.1828,-3.9878
+Spain,2022,6,85,Cantabria,Early Summer,43.1828,-3.9878
+Spain,2022,7,90,Cantabria,Summer Travel,43.1828,-3.9878
+Spain,2022,8,92,Cantabria,Peak Season,43.1828,-3.9878
+Spain,2022,9,85,Cantabria,Autumn Travel,43.1828,-3.9878
+Spain,2022,10,75,Cantabria,Fall Tourism,43.1828,-3.9878
+Spain,2022,11,68,Cantabria,Cultural Tourism,43.1828,-3.9878
+Spain,2022,12,85,Cantabria,Holiday Tourism,43.1828,-3.9878
+Spain,2022,1,45,Extremadura,Winter Tourism,39.4937,-6.0679
+Spain,2022,2,50,Extremadura,Off Season,39.4937,-6.0679
+Spain,2022,3,60,Extremadura,Spring Travel,39.4937,-6.0679
+Spain,2022,4,75,Extremadura,Easter Tourism,39.4937,-6.0679
+Spain,2022,5,72,Extremadura,Holiday Tourism,39.4937,-6.0679
+Spain,2022,6,70,Extremadura,Early Summer,39.4937,-6.0679
+Spain,2022,7,78,Extremadura,Summer Travel,39.4937,-6.0679
+Spain,2022,8,80,Extremadura,Peak Season,39.4937,-6.0679
+Spain,2022,9,75,Extremadura,Autumn Travel,39.4937,-6.0679
+Spain,2022,10,70,Extremadura,Fall Tourism,39.4937,-6.0679
+Spain,2022,11,65,Extremadura,Cultural Tourism,39.4937,-6.0679
+Spain,2022,12,80,Extremadura,Holiday Tourism,39.4937,-6.0679
+Spain,2022,1,50,Navarre,Winter Tourism,42.6954,-1.6761
+Spain,2022,2,55,Navarre,Cultural Season,42.6954,-1.6761
+Spain,2022,3,65,Navarre,Spring Travel,42.6954,-1.6761
+Spain,2022,4,78,Navarre,Easter Tourism,42.6954,-1.6761
+Spain,2022,5,75,Navarre,Holiday Tourism,42.6954,-1.6761
+Spain,2022,6,80,Navarre,Early Summer,42.6954,-1.6761
+Spain,2022,7,85,Navarre,San Fermin Festival,42.6954,-1.6761
+Spain,2022,8,88,Navarre,Peak Season,42.6954,-1.6761
+Spain,2022,9,80,Navarre,Autumn Travel,42.6954,-1.6761
+Spain,2022,10,75,Navarre,Fall Tourism,42.6954,-1.6761
+Spain,2022,11,68,Navarre,Cultural Tourism,42.6954,-1.6761
+Spain,2022,12,85,Navarre,Holiday Tourism,42.6954,-1.6761
+Spain,2022,1,48,La Rioja,Winter Tourism,42.2871,-2.5396
+Spain,2022,2,52,La Rioja,Off Season,42.2871,-2.5396
+Spain,2022,3,60,La Rioja,Spring Travel,42.2871,-2.5396
+Spain,2022,4,75,La Rioja,Easter Tourism,42.2871,-2.5396
+Spain,2022,5,72,La Rioja,Holiday Tourism,42.2871,-2.5396
+Spain,2022,6,78,La Rioja,Early Summer,42.2871,-2.5396
+Spain,2022,7,85,La Rioja,Summer Travel,42.2871,-2.5396
+Spain,2022,8,88,La Rioja,Peak Season,42.2871,-2.5396
+Spain,2022,9,82,La Rioja,Harvest Tourism,42.2871,-2.5396
+Spain,2022,10,78,La Rioja,Wine Festival,42.2871,-2.5396
+Spain,2022,11,65,La Rioja,Cultural Tourism,42.2871,-2.5396
+Spain,2022,12,82,La Rioja,Holiday Tourism,42.2871,-2.5396
+Spain,2022,1,50,Castile-La Mancha,Winter Tourism,39.2796,-3.0977
+Spain,2022,2,55,Castile-La Mancha,Cultural Tourism,39.2796,-3.0977
+Spain,2022,3,62,Castile-La Mancha,Spring Travel,39.2796,-3.0977
+Spain,2022,4,78,Castile-La Mancha,Easter Tourism,39.2796,-3.0977
+Spain,2022,5,75,Castile-La Mancha,Holiday Tourism,39.2796,-3.0977
+Spain,2022,6,78,Castile-La Mancha,Early Summer,39.2796,-3.0977
+Spain,2022,7,85,Castile-La Mancha,Summer Travel,39.2796,-3.0977
+Spain,2022,8,88,Castile-La Mancha,Peak Season,39.2796,-3.0977
+Spain,2022,9,80,Castile-La Mancha,Autumn Travel,39.2796,-3.0977
+Spain,2022,10,75,Castile-La Mancha,Fall Tourism,39.2796,-3.0977
+Spain,2022,11,68,Castile-La Mancha,Cultural Tourism,39.2796,-3.0977
+Spain,2022,12,85,Castile-La Mancha,Holiday Tourism,39.2796,-3.0977
+Spain,2022,1,52,Murcia,Winter Tourism,37.9922,-1.1307
+Spain,2022,2,55,Murcia,Cultural Season,37.9922,-1.1307
+Spain,2022,3,65,Murcia,Spring Travel,37.9922,-1.1307
+Spain,2022,4,78,Murcia,Easter Tourism,37.9922,-1.1307
+Spain,2022,5,75,Murcia,Holiday Tourism,37.9922,-1.1307
+Spain,2022,6,85,Murcia,Beach Season,37.9922,-1.1307
+Spain,2022,7,95,Murcia,Summer Peak,37.9922,-1.1307
+Spain,2022,8,100,Murcia,Tourism Peak,37.9922,-1.1307
+Spain,2022,9,88,Murcia,Autumn Travel,37.9922,-1.1307
+Spain,2022,10,75,Murcia,Fall Tourism,37.9922,-1.1307
+Spain,2022,11,65,Murcia,Cultural Tourism,37.9922,-1.1307
+Spain,2022,12,85,Murcia,Holiday Tourism,37.9922,-1.1307
+Spain,2023,1,50,Andalusia,Winter Tourism,37.5443,-4.7278
+Spain,2023,2,55,Andalusia,Cultural Season,37.5443,-4.7278
+Spain,2023,3,65,Andalusia,Spring Travel,37.5443,-4.7278
+Spain,2023,4,85,Andalusia,Semana Santa,37.5443,-4.7278
+Spain,2023,5,75,Andalusia,Holiday Tourism,37.5443,-4.7278
+Spain,2023,6,85,Andalusia,Early Summer,37.5443,-4.7278
+Spain,2023,7,95,Andalusia,Summer Peak,37.5443,-4.7278
+Spain,2023,8,100,Andalusia,Beach Tourism Peak,37.5443,-4.7278
+Spain,2023,9,85,Andalusia,Autumn Travel,37.5443,-4.7278
+Spain,2023,10,75,Andalusia,Fall Tourism,37.5443,-4.7278
+Spain,2023,11,65,Andalusia,Cultural Tourism,37.5443,-4.7278
+Spain,2023,12,85,Andalusia,Christmas Tourism,37.5443,-4.7278
+Spain,2023,1,55,Catalonia,Winter Tourism,41.5912,1.5209
+Spain,2023,2,60,Catalonia,Cultural Tourism,41.5912,1.5209
+Spain,2023,3,70,Catalonia,Spring Travel,41.5912,1.5209
+Spain,2023,4,85,Catalonia,Easter Tourism,41.5912,1.5209
+Spain,2023,5,80,Catalonia,Holiday Tourism,41.5912,1.5209
+Spain,2023,6,88,Catalonia,Early Summer,41.5912,1.5209
+Spain,2023,7,98,Catalonia,Summer Peak,41.5912,1.5209
+Spain,2023,8,100,Catalonia,Tourism Peak,41.5912,1.5209
+Spain,2023,9,88,Catalonia,Autumn Travel,41.5912,1.5209
+Spain,2023,10,78,Catalonia,Fall Tourism,41.5912,1.5209
+Spain,2023,11,70,Catalonia,Cultural Season,41.5912,1.5209
+Spain,2023,12,90,Catalonia,Christmas Tourism,41.5912,1.5209
+Spain,2023,1,52,Madrid,Winter Tourism,40.4168,-3.7038
+Spain,2023,2,58,Madrid,Cultural Season,40.4168,-3.7038
+Spain,2023,3,68,Madrid,Spring Travel,40.4168,-3.7038
+Spain,2023,4,82,Madrid,Easter Tourism,40.4168,-3.7038
+Spain,2023,5,78,Madrid,Holiday Tourism,40.4168,-3.7038
+Spain,2023,6,85,Madrid,Early Summer,40.4168,-3.7038
+Spain,2023,7,92,Madrid,Summer Travel,40.4168,-3.7038
+Spain,2023,8,90,Madrid,Peak Season,40.4168,-3.7038
+Spain,2023,9,85,Madrid,Autumn Travel,40.4168,-3.7038
+Spain,2023,10,78,Madrid,Fall Tourism,40.4168,-3.7038
+Spain,2023,11,70,Madrid,Cultural Tourism,40.4168,-3.7038
+Spain,2023,12,88,Madrid,Holiday Tourism,40.4168,-3.7038
+Spain,2023,1,48,Valencia,Winter Tourism,39.4699,-0.3763
+Spain,2023,2,55,Valencia,Cultural Season,39.4699,-0.3763
+Spain,2023,3,75,Valencia,Las Fallas Festival,39.4699,-0.3763
+Spain,2023,4,82,Valencia,Spring Travel,39.4699,-0.3763
+Spain,2023,5,78,Valencia,Holiday Tourism,39.4699,-0.3763
+Spain,2023,6,88,Valencia,Beach Season,39.4699,-0.3763
+Spain,2023,7,98,Valencia,Summer Peak,39.4699,-0.3763
+Spain,2023,8,100,Valencia,Tourism Peak,39.4699,-0.3763
+Spain,2023,9,88,Valencia,Autumn Travel,39.4699,-0.3763
+Spain,2023,10,75,Valencia,Fall Tourism,39.4699,-0.3763
+Spain,2023,11,65,Valencia,Cultural Tourism,39.4699,-0.3763
+Spain,2023,12,85,Valencia,Christmas Tourism,39.4699,-0.3763
+Spain,2023,1,45,Canary Islands,Winter Tourism,28.2916,-16.6291
+Spain,2023,2,50,Canary Islands,Beach Tourism,28.2916,-16.6291
+Spain,2023,3,60,Canary Islands,Spring Travel,28.2916,-16.6291
+Spain,2023,4,70,Canary Islands,Holiday Tourism,28.2916,-16.6291
+Spain,2023,5,75,Canary Islands,Beach Travel,28.2916,-16.6291
+Spain,2023,6,85,Canary Islands,Early Summer,28.2916,-16.6291
+Spain,2023,7,95,Canary Islands,Summer Peak,28.2916,-16.6291
+Spain,2023,8,100,Canary Islands,Peak Season,28.2916,-16.6291
+Spain,2023,9,90,Canary Islands,Autumn Travel,28.2916,-16.6291
+Spain,2023,10,80,Canary Islands,Fall Tourism,28.2916,-16.6291
+Spain,2023,11,70,Canary Islands,Cultural Tourism,28.2916,-16.6291
+Spain,2023,12,90,Canary Islands,Holiday Tourism,28.2916,-16.6291
+Spain,2023,1,50,Andalusia,Winter Tourism,37.5443,-4.7278
+Spain,2023,2,55,Andalusia,Cultural Season,37.5443,-4.7278
+Spain,2023,3,65,Andalusia,Spring Travel,37.5443,-4.7278
+Spain,2023,4,85,Andalusia,Semana Santa,37.5443,-4.7278
+Spain,2023,5,75,Andalusia,Holiday Tourism,37.5443,-4.7278
+Spain,2023,6,85,Andalusia,Early Summer,37.5443,-4.7278
+Spain,2023,7,95,Andalusia,Summer Peak,37.5443,-4.7278
+Spain,2023,8,100,Andalusia,Beach Tourism Peak,37.5443,-4.7278
+Spain,2023,9,85,Andalusia,Autumn Travel,37.5443,-4.7278
+Spain,2023,10,75,Andalusia,Fall Tourism,37.5443,-4.7278
+Spain,2023,11,65,Andalusia,Cultural Tourism,37.5443,-4.7278
+Spain,2023,12,85,Andalusia,Christmas Tourism,37.5443,-4.7278
+Spain,2023,1,55,Catalonia,Winter Tourism,41.5912,1.5209
+Spain,2023,2,60,Catalonia,Cultural Tourism,41.5912,1.5209
+Spain,2023,3,70,Catalonia,Spring Travel,41.5912,1.5209
+Spain,2023,4,85,Catalonia,Easter Tourism,41.5912,1.5209
+Spain,2023,5,80,Catalonia,Holiday Tourism,41.5912,1.5209
+Spain,2023,6,88,Catalonia,Early Summer,41.5912,1.5209
+Spain,2023,7,98,Catalonia,Summer Peak,41.5912,1.5209
+Spain,2023,8,100,Catalonia,Tourism Peak,41.5912,1.5209
+Spain,2023,9,88,Catalonia,Autumn Travel,41.5912,1.5209
+Spain,2023,10,78,Catalonia,Fall Tourism,41.5912,1.5209
+Spain,2023,11,70,Catalonia,Cultural Season,41.5912,1.5209
+Spain,2023,12,90,Catalonia,Christmas Tourism,41.5912,1.5209
+Spain,2023,1,52,Madrid,Winter Tourism,40.4168,-3.7038
+Spain,2023,2,58,Madrid,Cultural Season,40.4168,-3.7038
+Spain,2023,3,68,Madrid,Spring Travel,40.4168,-3.7038
+Spain,2023,4,82,Madrid,Easter Tourism,40.4168,-3.7038
+Spain,2023,5,78,Madrid,Holiday Tourism,40.4168,-3.7038
+Spain,2023,6,85,Madrid,Early Summer,40.4168,-3.7038
+Spain,2023,7,92,Madrid,Summer Travel,40.4168,-3.7038
+Spain,2023,8,90,Madrid,Peak Season,40.4168,-3.7038
+Spain,2023,9,85,Madrid,Autumn Travel,40.4168,-3.7038
+Spain,2023,10,78,Madrid,Fall Tourism,40.4168,-3.7038
+Spain,2023,11,70,Madrid,Cultural Tourism,40.4168,-3.7038
+Spain,2023,12,88,Madrid,Holiday Tourism,40.4168,-3.7038
+Spain,2023,1,48,Valencia,Winter Tourism,39.4699,-0.3763
+Spain,2023,2,55,Valencia,Cultural Season,39.4699,-0.3763
+Spain,2023,3,75,Valencia,Las Fallas Festival,39.4699,-0.3763
+Spain,2023,4,82,Valencia,Spring Travel,39.4699,-0.3763
+Spain,2023,5,78,Valencia,Holiday Tourism,39.4699,-0.3763
+Spain,2023,6,88,Valencia,Beach Season,39.4699,-0.3763
+Spain,2023,7,98,Valencia,Summer Peak,39.4699,-0.3763
+Spain,2023,8,100,Valencia,Tourism Peak,39.4699,-0.3763
+Spain,2023,9,88,Valencia,Autumn Travel,39.4699,-0.3763
+Spain,2023,10,75,Valencia,Fall Tourism,39.4699,-0.3763
+Spain,2023,11,65,Valencia,Cultural Tourism,39.4699,-0.3763
+Spain,2023,12,85,Valencia,Christmas Tourism,39.4699,-0.3763
+Spain,2023,1,45,Canary Islands,Winter Tourism,28.2916,-16.6291
+Spain,2023,2,50,Canary Islands,Beach Tourism,28.2916,-16.6291
+Spain,2023,3,60,Canary Islands,Spring Travel,28.2916,-16.6291
+Spain,2023,4,70,Canary Islands,Holiday Tourism,28.2916,-16.6291
+Spain,2023,5,75,Canary Islands,Beach Travel,28.2916,-16.6291
+Spain,2023,6,85,Canary Islands,Early Summer,28.2916,-16.6291
+Spain,2023,7,95,Canary Islands,Summer Peak,28.2916,-16.6291
+Spain,2023,8,100,Canary Islands,Peak Season,28.2916,-16.6291
+Spain,2023,9,90,Canary Islands,Autumn Travel,28.2916,-16.6291
+Spain,2023,10,80,Canary Islands,Fall Tourism,28.2916,-16.6291
+Spain,2023,11,70,Canary Islands,Cultural Tourism,28.2916,-16.6291
+Spain,2023,12,90,Canary Islands,Holiday Tourism,28.2916,-16.6291
+Spain,2023,1,48,Asturias,Winter Tourism,43.3614,-5.8494
+Spain,2023,2,52,Asturias,Off Season,43.3614,-5.8494
+Spain,2023,3,60,Asturias,Spring Travel,43.3614,-5.8494
+Spain,2023,4,75,Asturias,Easter Tourism,43.3614,-5.8494
+Spain,2023,5,78,Asturias,Holiday Tourism,43.3614,-5.8494
+Spain,2023,6,85,Asturias,Early Summer,43.3614,-5.8494
+Spain,2023,7,92,Asturias,Summer Peak,43.3614,-5.8494
+Spain,2023,8,95,Asturias,Tourism Peak,43.3614,-5.8494
+Spain,2023,9,88,Asturias,Autumn Travel,43.3614,-5.8494
+Spain,2023,10,75,Asturias,Fall Tourism,43.3614,-5.8494
+Spain,2023,11,65,Asturias,Cultural Tourism,43.3614,-5.8494
+Spain,2023,12,82,Asturias,Holiday Tourism,43.3614,-5.8494
+Spain,2023,1,50,Cantabria,Winter Tourism,43.1828,-3.9878
+Spain,2023,2,55,Cantabria,Cultural Season,43.1828,-3.9878
+Spain,2023,3,62,Cantabria,Spring Travel,43.1828,-3.9878
+Spain,2023,4,75,Cantabria,Easter Tourism,43.1828,-3.9878
+Spain,2023,5,78,Cantabria,Holiday Tourism,43.1828,-3.9878
+Spain,2023,6,85,Cantabria,Early Summer,43.1828,-3.9878
+Spain,2023,7,90,Cantabria,Summer Travel,43.1828,-3.9878
+Spain,2023,8,92,Cantabria,Peak Season,43.1828,-3.9878
+Spain,2023,9,85,Cantabria,Autumn Travel,43.1828,-3.9878
+Spain,2023,10,75,Cantabria,Fall Tourism,43.1828,-3.9878
+Spain,2023,11,68,Cantabria,Cultural Tourism,43.1828,-3.9878
+Spain,2023,12,85,Cantabria,Holiday Tourism,43.1828,-3.9878
+Spain,2023,1,45,Extremadura,Winter Tourism,39.4937,-6.0679
+Spain,2023,2,50,Extremadura,Off Season,39.4937,-6.0679
+Spain,2023,3,60,Extremadura,Spring Travel,39.4937,-6.0679
+Spain,2023,4,75,Extremadura,Easter Tourism,39.4937,-6.0679
+Spain,2023,5,72,Extremadura,Holiday Tourism,39.4937,-6.0679
+Spain,2023,6,70,Extremadura,Early Summer,39.4937,-6.0679
+Spain,2023,7,78,Extremadura,Summer Travel,39.4937,-6.0679
+Spain,2023,8,80,Extremadura,Peak Season,39.4937,-6.0679
+Spain,2023,9,75,Extremadura,Autumn Travel,39.4937,-6.0679
+Spain,2023,10,70,Extremadura,Fall Tourism,39.4937,-6.0679
+Spain,2023,11,65,Extremadura,Cultural Tourism,39.4937,-6.0679
+Spain,2023,12,80,Extremadura,Holiday Tourism,39.4937,-6.0679
+Spain,2023,1,50,Navarre,Winter Tourism,42.6954,-1.6761
+Spain,2023,2,55,Navarre,Cultural Season,42.6954,-1.6761
+Spain,2023,3,65,Navarre,Spring Travel,42.6954,-1.6761
+Spain,2023,4,78,Navarre,Easter Tourism,42.6954,-1.6761
+Spain,2023,5,75,Navarre,Holiday Tourism,42.6954,-1.6761
+Spain,2023,6,80,Navarre,Early Summer,42.6954,-1.6761
+Spain,2023,7,85,Navarre,San Fermin Festival,42.6954,-1.6761
+Spain,2023,8,88,Navarre,Peak Season,42.6954,-1.6761
+Spain,2023,9,80,Navarre,Autumn Travel,42.6954,-1.6761
+Spain,2023,10,75,Navarre,Fall Tourism,42.6954,-1.6761
+Spain,2023,11,68,Navarre,Cultural Tourism,42.6954,-1.6761
+Spain,2023,12,85,Navarre,Holiday Tourism,42.6954,-1.6761
+Spain,2023,1,48,La Rioja,Winter Tourism,42.2871,-2.5396
+Spain,2023,2,52,La Rioja,Off Season,42.2871,-2.5396
+Spain,2023,3,60,La Rioja,Spring Travel,42.2871,-2.5396
+Spain,2023,4,75,La Rioja,Easter Tourism,42.2871,-2.5396
+Spain,2023,5,72,La Rioja,Holiday Tourism,42.2871,-2.5396
+Spain,2023,6,78,La Rioja,Early Summer,42.2871,-2.5396
+Spain,2023,7,85,La Rioja,Summer Travel,42.2871,-2.5396
+Spain,2023,8,88,La Rioja,Peak Season,42.2871,-2.5396
+Spain,2023,9,82,La Rioja,Harvest Tourism,42.2871,-2.5396
+Spain,2023,10,78,La Rioja,Wine Festival,42.2871,-2.5396
+Spain,2023,11,65,La Rioja,Cultural Tourism,42.2871,-2.5396
+Spain,2023,12,82,La Rioja,Holiday Tourism,42.2871,-2.5396
+Spain,2023,1,50,Castile-La Mancha,Winter Tourism,39.2796,-3.0977
+Spain,2023,2,55,Castile-La Mancha,Cultural Tourism,39.2796,-3.0977
+Spain,2023,3,62,Castile-La Mancha,Spring Travel,39.2796,-3.0977
+Spain,2023,4,78,Castile-La Mancha,Easter Tourism,39.2796,-3.0977
+Spain,2023,5,75,Castile-La Mancha,Holiday Tourism,39.2796,-3.0977
+Spain,2023,6,78,Castile-La Mancha,Early Summer,39.2796,-3.0977
+Spain,2023,7,85,Castile-La Mancha,Summer Travel,39.2796,-3.0977
+Spain,2023,8,88,Castile-La Mancha,Peak Season,39.2796,-3.0977
+Spain,2023,9,80,Castile-La Mancha,Autumn Travel,39.2796,-3.0977
+Spain,2023,10,75,Castile-La Mancha,Fall Tourism,39.2796,-3.0977
+Spain,2023,11,68,Castile-La Mancha,Cultural Tourism,39.2796,-3.0977
+Spain,2023,12,85,Castile-La Mancha,Holiday Tourism,39.2796,-3.0977
+Spain,2023,1,52,Murcia,Winter Tourism,37.9922,-1.1307
+Spain,2023,2,55,Murcia,Cultural Season,37.9922,-1.1307
+Spain,2023,3,65,Murcia,Spring Travel,37.9922,-1.1307
+Spain,2023,4,78,Murcia,Easter Tourism,37.9922,-1.1307
+Spain,2023,5,75,Murcia,Holiday Tourism,37.9922,-1.1307
+Spain,2023,6,85,Murcia,Beach Season,37.9922,-1.1307
+Spain,2023,7,95,Murcia,Summer Peak,37.9922,-1.1307
+Spain,2023,8,100,Murcia,Tourism Peak,37.9922,-1.1307
+Spain,2023,9,88,Murcia,Autumn Travel,37.9922,-1.1307
+Spain,2023,10,75,Murcia,Fall Tourism,37.9922,-1.1307
+Spain,2023,11,65,Murcia,Cultural Tourism,37.9922,-1.1307
+Spain,2023,12,85,Murcia,Holiday Tourism,37.9922,-1.1307

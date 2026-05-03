@@ -1,0 +1,134 @@
+Country,year,month,tourism_index,state,event,latitude,longitude
+France,2019,1,40,Île-de-France,Winter Tourism,48.8499,2.637
+France,2019,2,50,Île-de-France,Cultural Season,48.8499,2.637
+France,2019,3,60,Île-de-France,Spring Travel,48.8499,2.637
+France,2019,4,65,Île-de-France,Spring Bloom,48.8499,2.637
+France,2019,5,72,Île-de-France,Holiday Tourism,48.8499,2.637
+France,2019,6,78,Île-de-France,Early Summer,48.8499,2.637
+France,2019,7,92,Île-de-France,Summer Peak,48.8499,2.637
+France,2019,8,95,Île-de-France,Vacation Season,48.8499,2.637
+France,2019,9,70,Île-de-France,Autumn Travel,48.8499,2.637
+France,2019,10,65,Île-de-France,Fall Tourism,48.8499,2.637
+France,2019,11,55,Île-de-France,Cultural Tourism,48.8499,2.637
+France,2019,12,85,Île-de-France,Christmas Tourism,48.8499,2.637
+France,2020,1,38,Provence-Alpes-Côte d'Azur,Winter Tourism,43.9352,6.0679
+France,2020,2,48,Provence-Alpes-Côte d'Azur,Cultural Season,43.9352,6.0679
+France,2020,3,58,Provence-Alpes-Côte d'Azur,Spring Travel,43.9352,6.0679
+France,2020,4,65,Provence-Alpes-Côte d'Azur,Flower Season,43.9352,6.0679
+France,2020,5,75,Provence-Alpes-Côte d'Azur,Holiday Travel,43.9352,6.0679
+France,2020,6,82,Provence-Alpes-Côte d'Azur,Beach Season,43.9352,6.0679
+France,2020,7,98,Provence-Alpes-Côte d'Azur,Summer Peak,43.9352,6.0679
+France,2020,8,100,Provence-Alpes-Côte d'Azur,Tourism Peak,43.9352,6.0679
+France,2020,9,72,Provence-Alpes-Côte d'Azur,Autumn Travel,43.9352,6.0679
+France,2020,10,64,Provence-Alpes-Côte d'Azur,Fall Season,43.9352,6.0679
+France,2020,11,54,Provence-Alpes-Côte d'Azur,Cultural Tourism,43.9352,6.0679
+France,2020,12,82,Provence-Alpes-Côte d'Azur,Holiday Season,43.9352,6.0679
+France,2021,1,42,Auvergne-Rhône-Alpes,Winter Tourism,45.4471,4.3859
+France,2021,2,80,Auvergne-Rhône-Alpes,Ski Season,45.4471,4.3859
+France,2021,3,78,Auvergne-Rhône-Alpes,Winter Sports,45.4471,4.3859
+France,2021,4,60,Auvergne-Rhône-Alpes,Spring Travel,45.4471,4.3859
+France,2021,5,65,Auvergne-Rhône-Alpes,Nature Tourism,45.4471,4.3859
+France,2021,6,72,Auvergne-Rhône-Alpes,Early Summer,45.4471,4.3859
+France,2021,7,85,Auvergne-Rhône-Alpes,Summer Travel,45.4471,4.3859
+France,2021,8,88,Auvergne-Rhône-Alpes,Peak Season,45.4471,4.3859
+France,2021,9,68,Auvergne-Rhône-Alpes,Autumn Travel,45.4471,4.3859
+France,2021,10,65,Auvergne-Rhône-Alpes,Fall Tourism,45.4471,4.3859
+France,2021,11,55,Auvergne-Rhône-Alpes,Off Season,45.4471,4.3859
+France,2021,12,78,Auvergne-Rhône-Alpes,Winter Holidays,45.4471,4.3859
+
+France,2022,1,40,Île-de-France,Winter Tourism,48.8499,2.637
+France,2022,2,50,Île-de-France,Cultural Season,48.8499,2.637
+France,2022,3,60,Île-de-France,Spring Travel,48.8499,2.637
+France,2022,4,65,Île-de-France,Spring Bloom,48.8499,2.637
+France,2022,5,72,Île-de-France,Holiday Tourism,48.8499,2.637
+France,2022,6,78,Île-de-France,Early Summer,48.8499,2.637
+France,2022,7,92,Île-de-France,Summer Peak,48.8499,2.637
+France,2022,8,95,Île-de-France,Vacation Season,48.8499,2.637
+France,2022,9,70,Île-de-France,Autumn Travel,48.8499,2.637
+France,2022,10,65,Île-de-France,Fall Tourism,48.8499,2.637
+France,2022,11,55,Île-de-France,Cultural Tourism,48.8499,2.637
+France,2023,12,85,Île-de-France,Christmas Tourism,48.8499,2.637
+France,2023,1,38,Provence-Alpes-Côte d'Azur,Winter Tourism,43.9352,6.0679
+France,2023,2,48,Provence-Alpes-Côte d'Azur,Cultural Season,43.9352,6.0679
+France,2023,3,58,Provence-Alpes-Côte d'Azur,Spring Travel,43.9352,6.0679
+France,2023,4,65,Provence-Alpes-Côte d'Azur,Flower Season,43.9352,6.0679
+France,2023,5,75,Provence-Alpes-Côte d'Azur,Holiday Travel,43.9352,6.0679
+France,2023,6,82,Provence-Alpes-Côte d'Azur,Beach Season,43.9352,6.0679
+France,2023,7,98,Provence-Alpes-Côte d'Azur,Summer Peak,43.9352,6.0679
+France,2023,8,100,Provence-Alpes-Côte d'Azur,Tourism Peak,43.9352,6.0679
+France,2023,9,72,Provence-Alpes-Côte d'Azur,Autumn Travel,43.9352,6.0679
+France,2023,10,64,Provence-Alpes-Côte d'Azur,Fall Season,43.9352,6.0679
+France,2023,11,54,Provence-Alpes-Côte d'Azur,Cultural Tourism,43.9352,6.0679
+France,2019,12,82,Provence-Alpes-Côte d'Azur,Holiday Season,43.9352,6.0679
+France,2019,1,42,Auvergne-Rhône-Alpes,Winter Tourism,45.4471,4.3859
+France,2019,2,80,Auvergne-Rhône-Alpes,Ski Season,45.4471,4.3859
+France,2019,3,78,Auvergne-Rhône-Alpes,Winter Sports,45.4471,4.3859
+France,2019,4,60,Auvergne-Rhône-Alpes,Spring Travel,45.4471,4.3859
+France,2019,5,65,Auvergne-Rhône-Alpes,Nature Tourism,45.4471,4.3859
+France,2019,6,72,Auvergne-Rhône-Alpes,Early Summer,45.4471,4.3859
+France,2019,7,85,Auvergne-Rhône-Alpes,Summer Travel,45.4471,4.3859
+France,2019,8,88,Auvergne-Rhône-Alpes,Peak Season,45.4471,4.3859
+France,2019,9,68,Auvergne-Rhône-Alpes,Autumn Travel,45.4471,4.3859
+France,2019,10,65,Auvergne-Rhône-Alpes,Fall Tourism,45.4471,4.3859
+France,2019,11,55,Auvergne-Rhône-Alpes,Off Season,45.4471,4.3859
+France,2020,12,78,Auvergne-Rhône-Alpes,Winter Holidays,45.4471,4.3859
+France,2020,1,41,Occitanie,Winter Tourism,43.8927,2.137
+France,2020,2,52,Occitanie,Cultural Season,43.8927,2.137
+France,2020,3,60,Occitanie,Spring Travel,43.8927,2.137
+France,2020,4,65,Occitanie,Flower Season,43.8927,2.137
+France,2020,5,72,Occitanie,Holiday Tourism,43.8927,2.137
+France,2020,6,78,Occitanie,Early Summer,43.8927,2.137
+France,2020,7,90,Occitanie,Summer Peak,43.8927,2.137
+France,2020,8,92,Occitanie,Vacation Season,43.8927,2.137
+France,2020,9,70,Occitanie,Autumn Travel,43.8927,2.137
+France,2020,10,65,Occitanie,Fall Tourism,43.8927,2.137
+France,2020,11,55,Occitanie,Cultural Tourism,43.8927,2.137
+France,2021,12,80,Occitanie,Holiday Travel,43.8927,2.137
+France,2021,1,35,Hauts-de-France,Winter Tourism,50.4801,2.793
+France,2021,2,45,Hauts-de-France,Off Season,50.4801,2.793
+France,2021,3,55,Hauts-de-France,Spring Travel,50.4801,2.793
+France,2021,4,60,Hauts-de-France,Spring Season,50.4801,2.793
+France,2021,5,65,Hauts-de-France,Holiday Tourism,50.4801,2.793
+France,2021,6,70,Hauts-de-France,Early Summer,50.4801,2.793
+France,2021,7,80,Hauts-de-France,Summer Travel,50.4801,2.793
+France,2021,8,82,Hauts-de-France,Peak Season,50.4801,2.793
+France,2021,9,65,Hauts-de-France,Autumn Travel,50.4801,2.793
+France,2021,10,60,Hauts-de-France,Fall Tourism,50.4801,2.793
+France,2021,11,50,Hauts-de-France,Cultural Tourism,50.4801,2.793
+France,2022,12,75,Hauts-de-France,Holiday Season,50.4801,2.793
+France,2022,1,38,Grand Est,Winter Tourism,48.6998,6.1878
+France,2022,2,75,Grand Est,Ski Season,48.6998,6.1878
+France,2022,3,70,Grand Est,Winter Travel,48.6998,6.1878
+France,2022,4,58,Grand Est,Spring Travel,48.6998,6.1878
+France,2022,5,65,Grand Est,Nature Tourism,48.6998,6.1878
+France,2022,6,70,Grand Est,Early Summer,48.6998,6.1878
+France,2022,7,80,Grand Est,Summer Travel,48.6998,6.1878
+France,2022,8,82,Grand Est,Peak Season,48.6998,6.1878
+France,2022,9,65,Grand Est,Autumn Travel,48.6998,6.1878
+France,2022,10,60,Grand Est,Fall Tourism,48.6998,6.1878
+France,2022,11,50,Grand Est,Cultural Tourism,48.6998,6.1878
+France,2023,12,85,Grand Est,Christmas Markets,48.6998,6.1878
+France,2023,1,40,Brittany,Winter Tourism,48.202,-2.9326
+France,2023,2,50,Brittany,Cultural Season,48.202,-2.9326
+France,2023,3,58,Brittany,Spring Travel,48.202,-2.9326
+France,2023,4,62,Brittany,Coastal Tourism,48.202,-2.9326
+France,2023,5,68,Brittany,Holiday Travel,48.202,-2.9326
+France,2023,6,75,Brittany,Early Summer,48.202,-2.9326
+France,2023,7,88,Brittany,Summer Peak,48.202,-2.9326
+France,2023,8,90,Brittany,Vacation Season,48.202,-2.9326
+France,2023,9,70,Brittany,Autumn Travel,48.202,-2.9326
+France,2023,10,65,Brittany,Fall Tourism,48.202,-2.9326
+France,2023,11,55,Brittany,Cultural Tourism,48.202,-2.9326
+France,2019,12,78,Brittany,Holiday Season,48.202,-2.9326
+France,2019,1,36,Corsica,Winter Tourism,42.0396,9.0129
+France,2019,2,45,Corsica,Off Season,42.0396,9.0129
+France,2019,3,55,Corsica,Spring Travel,42.0396,9.0129
+France,2019,4,62,Corsica,Island Tourism,42.0396,9.0129
+France,2019,5,70,Corsica,Holiday Travel,42.0396,9.0129
+France,2019,6,82,Corsica,Beach Season,42.0396,9.0129
+France,2019,7,95,Corsica,Summer Peak,42.0396,9.0129
+France,2019,8,100,Corsica,Tourism Peak,42.0396,9.0129
+France,2019,9,72,Corsica,Autumn Travel,42.0396,9.0129
+France,2019,10,65,Corsica,Fall Season,42.0396,9.0129
+France,2019,11,50,Corsica,Cultural Tourism,42.0396,9.0129
+France,2020,12,75,Corsica,Holiday Travel,42.0396,9.0129

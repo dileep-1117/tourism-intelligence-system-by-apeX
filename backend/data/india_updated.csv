@@ -1,0 +1,606 @@
+Country,year,month,tourism_index,state,event,latitude,longitude
+India,2019,1,85,Karnataka,Winter Tourism,15.3173,75.7139
+India,2019,2,75,Karnataka,Cultural Season,15.3173,75.7139
+India,2019,3,80,Karnataka,Holi Festival,15.3173,75.7139
+India,2019,4,82,Karnataka,Spring Travel,15.3173,75.7139
+India,2019,5,88,Karnataka,Summer Tourism,15.3173,75.7139
+India,2019,6,78,Karnataka,Monsoon Start,15.3173,75.7139
+India,2019,7,75,Karnataka,Monsoon Travel,15.3173,75.7139
+India,2019,8,78,Karnataka,Independence Travel,15.3173,75.7139
+India,2019,9,80,Karnataka,Pre-Festival Travel,15.3173,75.7139
+India,2019,10,95,Karnataka,Diwali Tourism,15.3173,75.7139
+India,2019,11,92,Karnataka,Festival Season,15.3173,75.7139
+India,2019,12,98,Karnataka,Year End Tourism,15.3173,75.7139
+India,2019,1,90,Goa,Peak Season,15.2993,74.1240
+India,2019,2,80,Goa,Beach Tourism,15.2993,74.1240
+India,2019,3,78,Goa,Spring Travel,15.2993,74.1240
+India,2019,4,75,Goa,Off Season Start,15.2993,74.1240
+India,2019,5,70,Goa,Summer Travel,15.2993,74.1240
+India,2019,6,60,Goa,Monsoon Season,15.2993,74.1240
+India,2019,7,58,Goa,Monsoon Travel,15.2993,74.1240
+India,2019,8,60,Goa,Monsoon Tourism,15.2993,74.1240
+India,2019,9,65,Goa,Pre-Season Travel,15.2993,74.1240
+India,2019,10,85,Goa,Festival Travel,15.2993,74.1240
+India,2019,11,92,Goa,Peak Season Start,15.2993,74.1240
+India,2019,12,100,Goa,New Year Peak,15.2993,74.1240
+India,2019,1,88,Himachal Pradesh,Winter Tourism,31.1048,77.1734
+India,2019,2,85,Himachal Pradesh,Snow Tourism,31.1048,77.1734
+India,2019,3,80,Himachal Pradesh,Spring Travel,31.1048,77.1734
+India,2019,4,82,Himachal Pradesh,Hill Tourism,31.1048,77.1734
+India,2019,5,92,Himachal Pradesh,Summer Peak,31.1048,77.1734
+India,2019,6,95,Himachal Pradesh,Vacation Peak,31.1048,77.1734
+India,2019,7,75,Himachal Pradesh,Monsoon Travel,31.1048,77.1734
+India,2019,8,72,Himachal Pradesh,Off Season,31.1048,77.1734
+India,2019,9,78,Himachal Pradesh,Autumn Travel,31.1048,77.1734
+India,2019,10,90,Himachal Pradesh,Festival Travel,31.1048,77.1734
+India,2019,11,88,Himachal Pradesh,Holiday Tourism,31.1048,77.1734
+India,2019,12,95,Himachal Pradesh,Winter Peak,31.1048,77.1734
+India,2019,1,85,Rajasthan,Winter Tourism,27.0238,74.2179
+India,2019,2,82,Rajasthan,Cultural Tourism,27.0238,74.2179
+India,2019,3,78,Rajasthan,Desert Festival,27.0238,74.2179
+India,2019,4,70,Rajasthan,Summer Start,27.0238,74.2179
+India,2019,5,60,Rajasthan,Low Season,27.0238,74.2179
+India,2019,6,55,Rajasthan,Heat Season,27.0238,74.2179
+India,2019,7,60,Rajasthan,Monsoon Travel,27.0238,74.2179
+India,2019,8,65,Rajasthan,Monsoon Tourism,27.0238,74.2179
+India,2019,9,75,Rajasthan,Pre-Festival Travel,27.0238,74.2179
+India,2019,10,95,Rajasthan,Diwali Tourism,27.0238,74.2179
+India,2019,11,92,Rajasthan,Peak Season,27.0238,74.2179
+India,2019,12,98,Rajasthan,Winter Peak,27.0238,74.2179
+India,2019,1,80,Kerala,Winter Tourism,10.8505,76.2711
+India,2019,2,78,Kerala,Backwater Tourism,10.8505,76.2711
+India,2019,3,75,Kerala,Spring Travel,10.8505,76.2711
+India,2019,4,70,Kerala,Pre-Monsoon,10.8505,76.2711
+India,2019,5,65,Kerala,Off Season,10.8505,76.2711
+India,2019,6,60,Kerala,Monsoon Tourism,10.8505,76.2711
+India,2019,7,62,Kerala,Ayurveda Season,10.8505,76.2711
+India,2019,8,70,Kerala,Onam Festival,10.8505,76.2711
+India,2019,9,75,Kerala,Post-Monsoon,10.8505,76.2711
+India,2019,10,85,Kerala,Festival Season,10.8505,76.2711
+India,2019,11,90,Kerala,Peak Tourism,10.8505,76.2711
+India,2019,12,95,Kerala,Holiday Peak,10.8505,76.2711
+Country,2019,month,tourism_index,state,event,latitude,longitude
+India,2019,1,88,Uttarakhand,Winter Tourism,30.0668,79.0193
+India,2019,2,85,Uttarakhand,Snow Tourism,30.0668,79.0193
+India,2019,3,80,Uttarakhand,Spring Travel,30.0668,79.0193
+India,2019,4,85,Uttarakhand,Hill Tourism,30.0668,79.0193
+India,2019,5,95,Uttarakhand,Summer Peak,30.0668,79.0193
+India,2019,6,98,Uttarakhand,Char Dham Yatra,30.0668,79.0193
+India,2019,7,75,Uttarakhand,Monsoon Travel,30.0668,79.0193
+India,2019,8,72,Uttarakhand,Off Season,30.0668,79.0193
+India,2019,9,80,Uttarakhand,Autumn Travel,30.0668,79.0193
+India,2019,10,92,Uttarakhand,Festival Travel,30.0668,79.0193
+India,2019,11,90,Uttarakhand,Holiday Tourism,30.0668,79.0193
+India,2019,12,96,Uttarakhand,Winter Peak,30.0668,79.0193
+India,2019,1,85,Tamil Nadu,Winter Tourism,11.1271,78.6569
+India,2019,2,80,Tamil Nadu,Cultural Tourism,11.1271,78.6569
+India,2019,3,78,Tamil Nadu,Temple Tourism,11.1271,78.6569
+India,2019,4,82,Tamil Nadu,Spring Travel,11.1271,78.6569
+India,2019,5,88,Tamil Nadu,Summer Tourism,11.1271,78.6569
+India,2019,6,78,Tamil Nadu,Monsoon Start,11.1271,78.6569
+India,2019,7,75,Tamil Nadu,Monsoon Travel,11.1271,78.6569
+India,2019,8,80,Tamil Nadu,Festival Season,11.1271,78.6569
+India,2019,9,82,Tamil Nadu,Pre-Festival Travel,11.1271,78.6569
+India,2019,10,92,Tamil Nadu,Diwali Tourism,11.1271,78.6569
+India,2019,11,90,Tamil Nadu,Peak Season,11.1271,78.6569
+India,2019,12,95,Tamil Nadu,Holiday Tourism,11.1271,78.6569
+India,2019,1,82,Maharashtra,Winter Tourism,19.7515,75.7139
+India,2019,2,78,Maharashtra,Cultural Season,19.7515,75.7139
+India,2019,3,80,Maharashtra,Holi Festival,19.7515,75.7139
+India,2019,4,82,Maharashtra,Spring Travel,19.7515,75.7139
+India,2019,5,88,Maharashtra,Summer Tourism,19.7515,75.7139
+India,2019,6,75,Maharashtra,Monsoon Start,19.7515,75.7139
+India,2019,7,72,Maharashtra,Monsoon Travel,19.7515,75.7139
+India,2019,8,78,Maharashtra,Festival Season,19.7515,75.7139
+India,2019,9,82,Maharashtra,Pre-Festival Travel,19.7515,75.7139
+India,2019,10,95,Maharashtra,Diwali Tourism,19.7515,75.7139
+India,2019,11,92,Maharashtra,Peak Season,19.7515,75.7139
+India,2019,12,97,Maharashtra,Year End Tourism,19.7515,75.7139
+India,2019,1,80,Delhi,Winter Tourism,28.7041,77.1025
+India,2019,2,75,Delhi,Cultural Tourism,28.7041,77.1025
+India,2019,3,78,Delhi,Holi Festival,28.7041,77.1025
+India,2019,4,80,Delhi,Spring Travel,28.7041,77.1025
+India,2019,5,75,Delhi,Summer Heat,28.7041,77.1025
+India,2019,6,70,Delhi,Off Season,28.7041,77.1025
+India,2019,7,68,Delhi,Monsoon Travel,28.7041,77.1025
+India,2019,8,72,Delhi,Independence Travel,28.7041,77.1025
+India,2019,9,78,Delhi,Pre-Festival Travel,28.7041,77.1025
+India,2019,10,95,Delhi,Diwali Tourism,28.7041,77.1025
+India,2019,11,92,Delhi,Festival Season,28.7041,77.1025
+India,2019,12,90,Delhi,Winter Peak,28.7041,77.1025
+India,2019,1,78,West Bengal,Winter Tourism,22.9868,87.8550
+India,2019,2,75,West Bengal,Cultural Season,22.9868,87.8550
+India,2019,3,78,West Bengal,Holi Festival,22.9868,87.8550
+India,2019,4,80,West Bengal,Spring Travel,22.9868,87.8550
+India,2019,5,75,West Bengal,Summer Travel,22.9868,87.8550
+India,2019,6,70,West Bengal,Monsoon Start,22.9868,87.8550
+India,2019,7,68,West Bengal,Monsoon Travel,22.9868,87.8550
+India,2019,8,75,West Bengal,Durga Puja Prep,22.9868,87.8550
+India,2019,9,85,West Bengal,Durga Puja,22.9868,87.8550
+India,2019,10,95,West Bengal,Festival Peak,22.9868,87.8550
+India,2019,11,90,West Bengal,Post Festival Travel,22.9868,87.8550
+India,2019,12,88,West Bengal,Holiday Tourism,22.9868,87.8550
+India,2020,1,85,Karnataka,Winter Tourism,15.3173,75.7139
+India,2020,2,75,Karnataka,Cultural Season,15.3173,75.7139
+India,2020,3,80,Karnataka,Holi Festival,15.3173,75.7139
+India,2020,4,82,Karnataka,Spring Travel,15.3173,75.7139
+India,2020,5,88,Karnataka,Summer Tourism,15.3173,75.7139
+India,2020,6,78,Karnataka,Monsoon Start,15.3173,75.7139
+India,2020,7,75,Karnataka,Monsoon Travel,15.3173,75.7139
+India,2020,8,78,Karnataka,Independence Travel,15.3173,75.7139
+India,2020,9,80,Karnataka,Pre-Festival Travel,15.3173,75.7139
+India,2020,10,95,Karnataka,Diwali Tourism,15.3173,75.7139
+India,2020,11,92,Karnataka,Festival Season,15.3173,75.7139
+India,2020,12,98,Karnataka,Year End Tourism,15.3173,75.7139
+India,2020,1,90,Goa,Peak Season,15.2993,74.1240
+India,2020,2,80,Goa,Beach Tourism,15.2993,74.1240
+India,2020,3,78,Goa,Spring Travel,15.2993,74.1240
+India,2020,4,75,Goa,Off Season Start,15.2993,74.1240
+India,2020,5,70,Goa,Summer Travel,15.2993,74.1240
+India,2020,6,60,Goa,Monsoon Season,15.2993,74.1240
+India,2020,7,58,Goa,Monsoon Travel,15.2993,74.1240
+India,2020,8,60,Goa,Monsoon Tourism,15.2993,74.1240
+India,2020,9,65,Goa,Pre-Season Travel,15.2993,74.1240
+India,2020,10,85,Goa,Festival Travel,15.2993,74.1240
+India,2020,11,92,Goa,Peak Season Start,15.2993,74.1240
+India,2020,12,100,Goa,New Year Peak,15.2993,74.1240
+India,2020,1,88,Himachal Pradesh,Winter Tourism,31.1048,77.1734
+India,2020,2,85,Himachal Pradesh,Snow Tourism,31.1048,77.1734
+India,2020,3,80,Himachal Pradesh,Spring Travel,31.1048,77.1734
+India,2020,4,82,Himachal Pradesh,Hill Tourism,31.1048,77.1734
+India,2020,5,92,Himachal Pradesh,Summer Peak,31.1048,77.1734
+India,2020,6,95,Himachal Pradesh,Vacation Peak,31.1048,77.1734
+India,2020,7,75,Himachal Pradesh,Monsoon Travel,31.1048,77.1734
+India,2020,8,72,Himachal Pradesh,Off Season,31.1048,77.1734
+India,2020,9,78,Himachal Pradesh,Autumn Travel,31.1048,77.1734
+India,2020,10,90,Himachal Pradesh,Festival Travel,31.1048,77.1734
+India,2020,11,88,Himachal Pradesh,Holiday Tourism,31.1048,77.1734
+India,2020,12,95,Himachal Pradesh,Winter Peak,31.1048,77.1734
+India,2020,1,85,Rajasthan,Winter Tourism,27.0238,74.2179
+India,2020,2,82,Rajasthan,Cultural Tourism,27.0238,74.2179
+India,2020,3,78,Rajasthan,Desert Festival,27.0238,74.2179
+India,2020,4,70,Rajasthan,Summer Start,27.0238,74.2179
+India,2020,5,60,Rajasthan,Low Season,27.0238,74.2179
+India,2020,6,55,Rajasthan,Heat Season,27.0238,74.2179
+India,2020,7,60,Rajasthan,Monsoon Travel,27.0238,74.2179
+India,2020,8,65,Rajasthan,Monsoon Tourism,27.0238,74.2179
+India,2020,9,75,Rajasthan,Pre-Festival Travel,27.0238,74.2179
+India,2020,10,95,Rajasthan,Diwali Tourism,27.0238,74.2179
+India,2020,11,92,Rajasthan,Peak Season,27.0238,74.2179
+India,2020,12,98,Rajasthan,Winter Peak,27.0238,74.2179
+India,2020,1,80,Kerala,Winter Tourism,10.8505,76.2711
+India,2020,2,78,Kerala,Backwater Tourism,10.8505,76.2711
+India,2020,3,75,Kerala,Spring Travel,10.8505,76.2711
+India,2020,4,70,Kerala,Pre-Monsoon,10.8505,76.2711
+India,2020,5,65,Kerala,Off Season,10.8505,76.2711
+India,2020,6,60,Kerala,Monsoon Tourism,10.8505,76.2711
+India,2020,7,62,Kerala,Ayurveda Season,10.8505,76.2711
+India,2020,8,70,Kerala,Onam Festival,10.8505,76.2711
+India,2020,9,75,Kerala,Post-Monsoon,10.8505,76.2711
+India,2020,10,85,Kerala,Festival Season,10.8505,76.2711
+India,2020,11,90,Kerala,Peak Tourism,10.8505,76.2711
+India,2020,12,95,Kerala,Holiday Peak,10.8505,76.2711
+Country,2020,month,tourism_index,state,event,latitude,longitude
+India,2020,1,88,Uttarakhand,Winter Tourism,30.0668,79.0193
+India,2020,2,85,Uttarakhand,Snow Tourism,30.0668,79.0193
+India,2020,3,80,Uttarakhand,Spring Travel,30.0668,79.0193
+India,2020,4,85,Uttarakhand,Hill Tourism,30.0668,79.0193
+India,2020,5,95,Uttarakhand,Summer Peak,30.0668,79.0193
+India,2020,6,98,Uttarakhand,Char Dham Yatra,30.0668,79.0193
+India,2020,7,75,Uttarakhand,Monsoon Travel,30.0668,79.0193
+India,2020,8,72,Uttarakhand,Off Season,30.0668,79.0193
+India,2020,9,80,Uttarakhand,Autumn Travel,30.0668,79.0193
+India,2020,10,92,Uttarakhand,Festival Travel,30.0668,79.0193
+India,2020,11,90,Uttarakhand,Holiday Tourism,30.0668,79.0193
+India,2020,12,96,Uttarakhand,Winter Peak,30.0668,79.0193
+India,2020,1,85,Tamil Nadu,Winter Tourism,11.1271,78.6569
+India,2020,2,80,Tamil Nadu,Cultural Tourism,11.1271,78.6569
+India,2020,3,78,Tamil Nadu,Temple Tourism,11.1271,78.6569
+India,2020,4,82,Tamil Nadu,Spring Travel,11.1271,78.6569
+India,2020,5,88,Tamil Nadu,Summer Tourism,11.1271,78.6569
+India,2020,6,78,Tamil Nadu,Monsoon Start,11.1271,78.6569
+India,2020,7,75,Tamil Nadu,Monsoon Travel,11.1271,78.6569
+India,2020,8,80,Tamil Nadu,Festival Season,11.1271,78.6569
+India,2020,9,82,Tamil Nadu,Pre-Festival Travel,11.1271,78.6569
+India,2020,10,92,Tamil Nadu,Diwali Tourism,11.1271,78.6569
+India,2020,11,90,Tamil Nadu,Peak Season,11.1271,78.6569
+India,2020,12,95,Tamil Nadu,Holiday Tourism,11.1271,78.6569
+India,2020,1,82,Maharashtra,Winter Tourism,19.7515,75.7139
+India,2020,2,78,Maharashtra,Cultural Season,19.7515,75.7139
+India,2020,3,80,Maharashtra,Holi Festival,19.7515,75.7139
+India,2020,4,82,Maharashtra,Spring Travel,19.7515,75.7139
+India,2020,5,88,Maharashtra,Summer Tourism,19.7515,75.7139
+India,2020,6,75,Maharashtra,Monsoon Start,19.7515,75.7139
+India,2020,7,72,Maharashtra,Monsoon Travel,19.7515,75.7139
+India,2020,8,78,Maharashtra,Festival Season,19.7515,75.7139
+India,2020,9,82,Maharashtra,Pre-Festival Travel,19.7515,75.7139
+India,2020,10,95,Maharashtra,Diwali Tourism,19.7515,75.7139
+India,2020,11,92,Maharashtra,Peak Season,19.7515,75.7139
+India,2020,12,97,Maharashtra,Year End Tourism,19.7515,75.7139
+India,2020,1,80,Delhi,Winter Tourism,28.7041,77.1025
+India,2020,2,75,Delhi,Cultural Tourism,28.7041,77.1025
+India,2020,3,78,Delhi,Holi Festival,28.7041,77.1025
+India,2020,4,80,Delhi,Spring Travel,28.7041,77.1025
+India,2020,5,75,Delhi,Summer Heat,28.7041,77.1025
+India,2020,6,70,Delhi,Off Season,28.7041,77.1025
+India,2020,7,68,Delhi,Monsoon Travel,28.7041,77.1025
+India,2020,8,72,Delhi,Independence Travel,28.7041,77.1025
+India,2020,9,78,Delhi,Pre-Festival Travel,28.7041,77.1025
+India,2020,10,95,Delhi,Diwali Tourism,28.7041,77.1025
+India,2020,11,92,Delhi,Festival Season,28.7041,77.1025
+India,2020,12,90,Delhi,Winter Peak,28.7041,77.1025
+India,2020,1,78,West Bengal,Winter Tourism,22.9868,87.8550
+India,2020,2,75,West Bengal,Cultural Season,22.9868,87.8550
+India,2020,3,78,West Bengal,Holi Festival,22.9868,87.8550
+India,2020,4,80,West Bengal,Spring Travel,22.9868,87.8550
+India,2020,5,75,West Bengal,Summer Travel,22.9868,87.8550
+India,2020,6,70,West Bengal,Monsoon Start,22.9868,87.8550
+India,2020,7,68,West Bengal,Monsoon Travel,22.9868,87.8550
+India,2020,8,75,West Bengal,Durga Puja Prep,22.9868,87.8550
+India,2020,9,85,West Bengal,Durga Puja,22.9868,87.8550
+India,2020,10,95,West Bengal,Festival Peak,22.9868,87.8550
+India,2020,11,90,West Bengal,Post Festival Travel,22.9868,87.8550
+India,2020,12,88,West Bengal,Holiday Tourism,22.9868,87.8550
+India,2021,1,85,Karnataka,Winter Tourism,15.3173,75.7139
+India,2021,2,75,Karnataka,Cultural Season,15.3173,75.7139
+India,2021,3,80,Karnataka,Holi Festival,15.3173,75.7139
+India,2021,4,82,Karnataka,Spring Travel,15.3173,75.7139
+India,2021,5,88,Karnataka,Summer Tourism,15.3173,75.7139
+India,2021,6,78,Karnataka,Monsoon Start,15.3173,75.7139
+India,2021,7,75,Karnataka,Monsoon Travel,15.3173,75.7139
+India,2021,8,78,Karnataka,Independence Travel,15.3173,75.7139
+India,2021,9,80,Karnataka,Pre-Festival Travel,15.3173,75.7139
+India,2021,10,95,Karnataka,Diwali Tourism,15.3173,75.7139
+India,2021,11,92,Karnataka,Festival Season,15.3173,75.7139
+India,2021,12,98,Karnataka,Year End Tourism,15.3173,75.7139
+India,2021,1,90,Goa,Peak Season,15.2993,74.1240
+India,2021,2,80,Goa,Beach Tourism,15.2993,74.1240
+India,2021,3,78,Goa,Spring Travel,15.2993,74.1240
+India,2021,4,75,Goa,Off Season Start,15.2993,74.1240
+India,2021,5,70,Goa,Summer Travel,15.2993,74.1240
+India,2021,6,60,Goa,Monsoon Season,15.2993,74.1240
+India,2021,7,58,Goa,Monsoon Travel,15.2993,74.1240
+India,2021,8,60,Goa,Monsoon Tourism,15.2993,74.1240
+India,2021,9,65,Goa,Pre-Season Travel,15.2993,74.1240
+India,2021,10,85,Goa,Festival Travel,15.2993,74.1240
+India,2021,11,92,Goa,Peak Season Start,15.2993,74.1240
+India,2021,12,100,Goa,New Year Peak,15.2993,74.1240
+India,2021,1,88,Himachal Pradesh,Winter Tourism,31.1048,77.1734
+India,2021,2,85,Himachal Pradesh,Snow Tourism,31.1048,77.1734
+India,2021,3,80,Himachal Pradesh,Spring Travel,31.1048,77.1734
+India,2021,4,82,Himachal Pradesh,Hill Tourism,31.1048,77.1734
+India,2021,5,92,Himachal Pradesh,Summer Peak,31.1048,77.1734
+India,2021,6,95,Himachal Pradesh,Vacation Peak,31.1048,77.1734
+India,2021,7,75,Himachal Pradesh,Monsoon Travel,31.1048,77.1734
+India,2021,8,72,Himachal Pradesh,Off Season,31.1048,77.1734
+India,2021,9,78,Himachal Pradesh,Autumn Travel,31.1048,77.1734
+India,2021,10,90,Himachal Pradesh,Festival Travel,31.1048,77.1734
+India,2021,11,88,Himachal Pradesh,Holiday Tourism,31.1048,77.1734
+India,2021,12,95,Himachal Pradesh,Winter Peak,31.1048,77.1734
+India,2021,1,85,Rajasthan,Winter Tourism,27.0238,74.2179
+India,2021,2,82,Rajasthan,Cultural Tourism,27.0238,74.2179
+India,2021,3,78,Rajasthan,Desert Festival,27.0238,74.2179
+India,2021,4,70,Rajasthan,Summer Start,27.0238,74.2179
+India,2021,5,60,Rajasthan,Low Season,27.0238,74.2179
+India,2021,6,55,Rajasthan,Heat Season,27.0238,74.2179
+India,2021,7,60,Rajasthan,Monsoon Travel,27.0238,74.2179
+India,2021,8,65,Rajasthan,Monsoon Tourism,27.0238,74.2179
+India,2021,9,75,Rajasthan,Pre-Festival Travel,27.0238,74.2179
+India,2021,10,95,Rajasthan,Diwali Tourism,27.0238,74.2179
+India,2021,11,92,Rajasthan,Peak Season,27.0238,74.2179
+India,2021,12,98,Rajasthan,Winter Peak,27.0238,74.2179
+India,2021,1,80,Kerala,Winter Tourism,10.8505,76.2711
+India,2021,2,78,Kerala,Backwater Tourism,10.8505,76.2711
+India,2021,3,75,Kerala,Spring Travel,10.8505,76.2711
+India,2021,4,70,Kerala,Pre-Monsoon,10.8505,76.2711
+India,2021,5,65,Kerala,Off Season,10.8505,76.2711
+India,2021,6,60,Kerala,Monsoon Tourism,10.8505,76.2711
+India,2021,7,62,Kerala,Ayurveda Season,10.8505,76.2711
+India,2021,8,70,Kerala,Onam Festival,10.8505,76.2711
+India,2021,9,75,Kerala,Post-Monsoon,10.8505,76.2711
+India,2021,10,85,Kerala,Festival Season,10.8505,76.2711
+India,2021,11,90,Kerala,Peak Tourism,10.8505,76.2711
+India,2021,12,95,Kerala,Holiday Peak,10.8505,76.2711
+Country,2021,month,tourism_index,state,event,latitude,longitude
+India,2021,1,88,Uttarakhand,Winter Tourism,30.0668,79.0193
+India,2021,2,85,Uttarakhand,Snow Tourism,30.0668,79.0193
+India,2021,3,80,Uttarakhand,Spring Travel,30.0668,79.0193
+India,2021,4,85,Uttarakhand,Hill Tourism,30.0668,79.0193
+India,2021,5,95,Uttarakhand,Summer Peak,30.0668,79.0193
+India,2021,6,98,Uttarakhand,Char Dham Yatra,30.0668,79.0193
+India,2021,7,75,Uttarakhand,Monsoon Travel,30.0668,79.0193
+India,2021,8,72,Uttarakhand,Off Season,30.0668,79.0193
+India,2021,9,80,Uttarakhand,Autumn Travel,30.0668,79.0193
+India,2021,10,92,Uttarakhand,Festival Travel,30.0668,79.0193
+India,2021,11,90,Uttarakhand,Holiday Tourism,30.0668,79.0193
+India,2021,12,96,Uttarakhand,Winter Peak,30.0668,79.0193
+India,2021,1,85,Tamil Nadu,Winter Tourism,11.1271,78.6569
+India,2021,2,80,Tamil Nadu,Cultural Tourism,11.1271,78.6569
+India,2021,3,78,Tamil Nadu,Temple Tourism,11.1271,78.6569
+India,2021,4,82,Tamil Nadu,Spring Travel,11.1271,78.6569
+India,2021,5,88,Tamil Nadu,Summer Tourism,11.1271,78.6569
+India,2021,6,78,Tamil Nadu,Monsoon Start,11.1271,78.6569
+India,2021,7,75,Tamil Nadu,Monsoon Travel,11.1271,78.6569
+India,2021,8,80,Tamil Nadu,Festival Season,11.1271,78.6569
+India,2021,9,82,Tamil Nadu,Pre-Festival Travel,11.1271,78.6569
+India,2021,10,92,Tamil Nadu,Diwali Tourism,11.1271,78.6569
+India,2021,11,90,Tamil Nadu,Peak Season,11.1271,78.6569
+India,2021,12,95,Tamil Nadu,Holiday Tourism,11.1271,78.6569
+India,2021,1,82,Maharashtra,Winter Tourism,19.7515,75.7139
+India,2021,2,78,Maharashtra,Cultural Season,19.7515,75.7139
+India,2021,3,80,Maharashtra,Holi Festival,19.7515,75.7139
+India,2021,4,82,Maharashtra,Spring Travel,19.7515,75.7139
+India,2021,5,88,Maharashtra,Summer Tourism,19.7515,75.7139
+India,2021,6,75,Maharashtra,Monsoon Start,19.7515,75.7139
+India,2021,7,72,Maharashtra,Monsoon Travel,19.7515,75.7139
+India,2021,8,78,Maharashtra,Festival Season,19.7515,75.7139
+India,2021,9,82,Maharashtra,Pre-Festival Travel,19.7515,75.7139
+India,2021,10,95,Maharashtra,Diwali Tourism,19.7515,75.7139
+India,2021,11,92,Maharashtra,Peak Season,19.7515,75.7139
+India,2021,12,97,Maharashtra,Year End Tourism,19.7515,75.7139
+India,2021,1,80,Delhi,Winter Tourism,28.7041,77.1025
+India,2021,2,75,Delhi,Cultural Tourism,28.7041,77.1025
+India,2021,3,78,Delhi,Holi Festival,28.7041,77.1025
+India,2021,4,80,Delhi,Spring Travel,28.7041,77.1025
+India,2021,5,75,Delhi,Summer Heat,28.7041,77.1025
+India,2021,6,70,Delhi,Off Season,28.7041,77.1025
+India,2021,7,68,Delhi,Monsoon Travel,28.7041,77.1025
+India,2021,8,72,Delhi,Independence Travel,28.7041,77.1025
+India,2021,9,78,Delhi,Pre-Festival Travel,28.7041,77.1025
+India,2021,10,95,Delhi,Diwali Tourism,28.7041,77.1025
+India,2021,11,92,Delhi,Festival Season,28.7041,77.1025
+India,2021,12,90,Delhi,Winter Peak,28.7041,77.1025
+India,2021,1,78,West Bengal,Winter Tourism,22.9868,87.8550
+India,2021,2,75,West Bengal,Cultural Season,22.9868,87.8550
+India,2021,3,78,West Bengal,Holi Festival,22.9868,87.8550
+India,2021,4,80,West Bengal,Spring Travel,22.9868,87.8550
+India,2021,5,75,West Bengal,Summer Travel,22.9868,87.8550
+India,2021,6,70,West Bengal,Monsoon Start,22.9868,87.8550
+India,2021,7,68,West Bengal,Monsoon Travel,22.9868,87.8550
+India,2021,8,75,West Bengal,Durga Puja Prep,22.9868,87.8550
+India,2021,9,85,West Bengal,Durga Puja,22.9868,87.8550
+India,2021,10,95,West Bengal,Festival Peak,22.9868,87.8550
+India,2021,11,90,West Bengal,Post Festival Travel,22.9868,87.8550
+India,2021,12,88,West Bengal,Holiday Tourism,22.9868,87.8550
+India,2022,1,85,Karnataka,Winter Tourism,15.3173,75.7139
+India,2022,2,75,Karnataka,Cultural Season,15.3173,75.7139
+India,2022,3,80,Karnataka,Holi Festival,15.3173,75.7139
+India,2022,4,82,Karnataka,Spring Travel,15.3173,75.7139
+India,2022,5,88,Karnataka,Summer Tourism,15.3173,75.7139
+India,2022,6,78,Karnataka,Monsoon Start,15.3173,75.7139
+India,2022,7,75,Karnataka,Monsoon Travel,15.3173,75.7139
+India,2022,8,78,Karnataka,Independence Travel,15.3173,75.7139
+India,2022,9,80,Karnataka,Pre-Festival Travel,15.3173,75.7139
+India,2022,10,95,Karnataka,Diwali Tourism,15.3173,75.7139
+India,2022,11,92,Karnataka,Festival Season,15.3173,75.7139
+India,2022,12,98,Karnataka,Year End Tourism,15.3173,75.7139
+India,2022,1,90,Goa,Peak Season,15.2993,74.1240
+India,2022,2,80,Goa,Beach Tourism,15.2993,74.1240
+India,2022,3,78,Goa,Spring Travel,15.2993,74.1240
+India,2022,4,75,Goa,Off Season Start,15.2993,74.1240
+India,2022,5,70,Goa,Summer Travel,15.2993,74.1240
+India,2022,6,60,Goa,Monsoon Season,15.2993,74.1240
+India,2022,7,58,Goa,Monsoon Travel,15.2993,74.1240
+India,2022,8,60,Goa,Monsoon Tourism,15.2993,74.1240
+India,2022,9,65,Goa,Pre-Season Travel,15.2993,74.1240
+India,2022,10,85,Goa,Festival Travel,15.2993,74.1240
+India,2022,11,92,Goa,Peak Season Start,15.2993,74.1240
+India,2022,12,100,Goa,New Year Peak,15.2993,74.1240
+India,2022,1,88,Himachal Pradesh,Winter Tourism,31.1048,77.1734
+India,2022,2,85,Himachal Pradesh,Snow Tourism,31.1048,77.1734
+India,2022,3,80,Himachal Pradesh,Spring Travel,31.1048,77.1734
+India,2022,4,82,Himachal Pradesh,Hill Tourism,31.1048,77.1734
+India,2022,5,92,Himachal Pradesh,Summer Peak,31.1048,77.1734
+India,2022,6,95,Himachal Pradesh,Vacation Peak,31.1048,77.1734
+India,2022,7,75,Himachal Pradesh,Monsoon Travel,31.1048,77.1734
+India,2022,8,72,Himachal Pradesh,Off Season,31.1048,77.1734
+India,2022,9,78,Himachal Pradesh,Autumn Travel,31.1048,77.1734
+India,2022,10,90,Himachal Pradesh,Festival Travel,31.1048,77.1734
+India,2022,11,88,Himachal Pradesh,Holiday Tourism,31.1048,77.1734
+India,2022,12,95,Himachal Pradesh,Winter Peak,31.1048,77.1734
+India,2022,1,85,Rajasthan,Winter Tourism,27.0238,74.2179
+India,2022,2,82,Rajasthan,Cultural Tourism,27.0238,74.2179
+India,2022,3,78,Rajasthan,Desert Festival,27.0238,74.2179
+India,2022,4,70,Rajasthan,Summer Start,27.0238,74.2179
+India,2022,5,60,Rajasthan,Low Season,27.0238,74.2179
+India,2022,6,55,Rajasthan,Heat Season,27.0238,74.2179
+India,2022,7,60,Rajasthan,Monsoon Travel,27.0238,74.2179
+India,2022,8,65,Rajasthan,Monsoon Tourism,27.0238,74.2179
+India,2022,9,75,Rajasthan,Pre-Festival Travel,27.0238,74.2179
+India,2022,10,95,Rajasthan,Diwali Tourism,27.0238,74.2179
+India,2022,11,92,Rajasthan,Peak Season,27.0238,74.2179
+India,2022,12,98,Rajasthan,Winter Peak,27.0238,74.2179
+India,2022,1,80,Kerala,Winter Tourism,10.8505,76.2711
+India,2022,2,78,Kerala,Backwater Tourism,10.8505,76.2711
+India,2022,3,75,Kerala,Spring Travel,10.8505,76.2711
+India,2022,4,70,Kerala,Pre-Monsoon,10.8505,76.2711
+India,2022,5,65,Kerala,Off Season,10.8505,76.2711
+India,2022,6,60,Kerala,Monsoon Tourism,10.8505,76.2711
+India,2022,7,62,Kerala,Ayurveda Season,10.8505,76.2711
+India,2022,8,70,Kerala,Onam Festival,10.8505,76.2711
+India,2022,9,75,Kerala,Post-Monsoon,10.8505,76.2711
+India,2022,10,85,Kerala,Festival Season,10.8505,76.2711
+India,2022,11,90,Kerala,Peak Tourism,10.8505,76.2711
+India,2022,12,95,Kerala,Holiday Peak,10.8505,76.2711
+Country,2022,month,tourism_index,state,event,latitude,longitude
+India,2022,1,88,Uttarakhand,Winter Tourism,30.0668,79.0193
+India,2022,2,85,Uttarakhand,Snow Tourism,30.0668,79.0193
+India,2022,3,80,Uttarakhand,Spring Travel,30.0668,79.0193
+India,2022,4,85,Uttarakhand,Hill Tourism,30.0668,79.0193
+India,2022,5,95,Uttarakhand,Summer Peak,30.0668,79.0193
+India,2022,6,98,Uttarakhand,Char Dham Yatra,30.0668,79.0193
+India,2022,7,75,Uttarakhand,Monsoon Travel,30.0668,79.0193
+India,2022,8,72,Uttarakhand,Off Season,30.0668,79.0193
+India,2022,9,80,Uttarakhand,Autumn Travel,30.0668,79.0193
+India,2022,10,92,Uttarakhand,Festival Travel,30.0668,79.0193
+India,2022,11,90,Uttarakhand,Holiday Tourism,30.0668,79.0193
+India,2022,12,96,Uttarakhand,Winter Peak,30.0668,79.0193
+India,2022,1,85,Tamil Nadu,Winter Tourism,11.1271,78.6569
+India,2022,2,80,Tamil Nadu,Cultural Tourism,11.1271,78.6569
+India,2022,3,78,Tamil Nadu,Temple Tourism,11.1271,78.6569
+India,2022,4,82,Tamil Nadu,Spring Travel,11.1271,78.6569
+India,2022,5,88,Tamil Nadu,Summer Tourism,11.1271,78.6569
+India,2022,6,78,Tamil Nadu,Monsoon Start,11.1271,78.6569
+India,2022,7,75,Tamil Nadu,Monsoon Travel,11.1271,78.6569
+India,2022,8,80,Tamil Nadu,Festival Season,11.1271,78.6569
+India,2022,9,82,Tamil Nadu,Pre-Festival Travel,11.1271,78.6569
+India,2022,10,92,Tamil Nadu,Diwali Tourism,11.1271,78.6569
+India,2022,11,90,Tamil Nadu,Peak Season,11.1271,78.6569
+India,2022,12,95,Tamil Nadu,Holiday Tourism,11.1271,78.6569
+India,2022,1,82,Maharashtra,Winter Tourism,19.7515,75.7139
+India,2022,2,78,Maharashtra,Cultural Season,19.7515,75.7139
+India,2022,3,80,Maharashtra,Holi Festival,19.7515,75.7139
+India,2022,4,82,Maharashtra,Spring Travel,19.7515,75.7139
+India,2022,5,88,Maharashtra,Summer Tourism,19.7515,75.7139
+India,2022,6,75,Maharashtra,Monsoon Start,19.7515,75.7139
+India,2022,7,72,Maharashtra,Monsoon Travel,19.7515,75.7139
+India,2022,8,78,Maharashtra,Festival Season,19.7515,75.7139
+India,2022,9,82,Maharashtra,Pre-Festival Travel,19.7515,75.7139
+India,2022,10,95,Maharashtra,Diwali Tourism,19.7515,75.7139
+India,2022,11,92,Maharashtra,Peak Season,19.7515,75.7139
+India,2022,12,97,Maharashtra,Year End Tourism,19.7515,75.7139
+India,2022,1,80,Delhi,Winter Tourism,28.7041,77.1025
+India,2022,2,75,Delhi,Cultural Tourism,28.7041,77.1025
+India,2022,3,78,Delhi,Holi Festival,28.7041,77.1025
+India,2022,4,80,Delhi,Spring Travel,28.7041,77.1025
+India,2022,5,75,Delhi,Summer Heat,28.7041,77.1025
+India,2022,6,70,Delhi,Off Season,28.7041,77.1025
+India,2022,7,68,Delhi,Monsoon Travel,28.7041,77.1025
+India,2022,8,72,Delhi,Independence Travel,28.7041,77.1025
+India,2022,9,78,Delhi,Pre-Festival Travel,28.7041,77.1025
+India,2022,10,95,Delhi,Diwali Tourism,28.7041,77.1025
+India,2022,11,92,Delhi,Festival Season,28.7041,77.1025
+India,2022,12,90,Delhi,Winter Peak,28.7041,77.1025
+India,2022,1,78,West Bengal,Winter Tourism,22.9868,87.8550
+India,2022,2,75,West Bengal,Cultural Season,22.9868,87.8550
+India,2022,3,78,West Bengal,Holi Festival,22.9868,87.8550
+India,2022,4,80,West Bengal,Spring Travel,22.9868,87.8550
+India,2022,5,75,West Bengal,Summer Travel,22.9868,87.8550
+India,2022,6,70,West Bengal,Monsoon Start,22.9868,87.8550
+India,2022,7,68,West Bengal,Monsoon Travel,22.9868,87.8550
+India,2022,8,75,West Bengal,Durga Puja Prep,22.9868,87.8550
+India,2022,9,85,West Bengal,Durga Puja,22.9868,87.8550
+India,2022,10,95,West Bengal,Festival Peak,22.9868,87.8550
+India,2022,11,90,West Bengal,Post Festival Travel,22.9868,87.8550
+India,2022,12,88,West Bengal,Holiday Tourism,22.9868,87.8550
+India,2023,1,85,Karnataka,Winter Tourism,15.3173,75.7139
+India,2023,2,75,Karnataka,Cultural Season,15.3173,75.7139
+India,2023,3,80,Karnataka,Holi Festival,15.3173,75.7139
+India,2023,4,82,Karnataka,Spring Travel,15.3173,75.7139
+India,2023,5,88,Karnataka,Summer Tourism,15.3173,75.7139
+India,2023,6,78,Karnataka,Monsoon Start,15.3173,75.7139
+India,2023,7,75,Karnataka,Monsoon Travel,15.3173,75.7139
+India,2023,8,78,Karnataka,Independence Travel,15.3173,75.7139
+India,2023,9,80,Karnataka,Pre-Festival Travel,15.3173,75.7139
+India,2023,10,95,Karnataka,Diwali Tourism,15.3173,75.7139
+India,2023,11,92,Karnataka,Festival Season,15.3173,75.7139
+India,2023,12,98,Karnataka,Year End Tourism,15.3173,75.7139
+India,2023,1,90,Goa,Peak Season,15.2993,74.1240
+India,2023,2,80,Goa,Beach Tourism,15.2993,74.1240
+India,2023,3,78,Goa,Spring Travel,15.2993,74.1240
+India,2023,4,75,Goa,Off Season Start,15.2993,74.1240
+India,2023,5,70,Goa,Summer Travel,15.2993,74.1240
+India,2023,6,60,Goa,Monsoon Season,15.2993,74.1240
+India,2023,7,58,Goa,Monsoon Travel,15.2993,74.1240
+India,2023,8,60,Goa,Monsoon Tourism,15.2993,74.1240
+India,2023,9,65,Goa,Pre-Season Travel,15.2993,74.1240
+India,2023,10,85,Goa,Festival Travel,15.2993,74.1240
+India,2023,11,92,Goa,Peak Season Start,15.2993,74.1240
+India,2023,12,100,Goa,New Year Peak,15.2993,74.1240
+India,2023,1,88,Himachal Pradesh,Winter Tourism,31.1048,77.1734
+India,2023,2,85,Himachal Pradesh,Snow Tourism,31.1048,77.1734
+India,2023,3,80,Himachal Pradesh,Spring Travel,31.1048,77.1734
+India,2023,4,82,Himachal Pradesh,Hill Tourism,31.1048,77.1734
+India,2023,5,92,Himachal Pradesh,Summer Peak,31.1048,77.1734
+India,2023,6,95,Himachal Pradesh,Vacation Peak,31.1048,77.1734
+India,2023,7,75,Himachal Pradesh,Monsoon Travel,31.1048,77.1734
+India,2023,8,72,Himachal Pradesh,Off Season,31.1048,77.1734
+India,2023,9,78,Himachal Pradesh,Autumn Travel,31.1048,77.1734
+India,2023,10,90,Himachal Pradesh,Festival Travel,31.1048,77.1734
+India,2023,11,88,Himachal Pradesh,Holiday Tourism,31.1048,77.1734
+India,2023,12,95,Himachal Pradesh,Winter Peak,31.1048,77.1734
+India,2023,1,85,Rajasthan,Winter Tourism,27.0238,74.2179
+India,2023,2,82,Rajasthan,Cultural Tourism,27.0238,74.2179
+India,2023,3,78,Rajasthan,Desert Festival,27.0238,74.2179
+India,2023,4,70,Rajasthan,Summer Start,27.0238,74.2179
+India,2023,5,60,Rajasthan,Low Season,27.0238,74.2179
+India,2023,6,55,Rajasthan,Heat Season,27.0238,74.2179
+India,2023,7,60,Rajasthan,Monsoon Travel,27.0238,74.2179
+India,2023,8,65,Rajasthan,Monsoon Tourism,27.0238,74.2179
+India,2023,9,75,Rajasthan,Pre-Festival Travel,27.0238,74.2179
+India,2023,10,95,Rajasthan,Diwali Tourism,27.0238,74.2179
+India,2023,11,92,Rajasthan,Peak Season,27.0238,74.2179
+India,2023,12,98,Rajasthan,Winter Peak,27.0238,74.2179
+India,2023,1,80,Kerala,Winter Tourism,10.8505,76.2711
+India,2023,2,78,Kerala,Backwater Tourism,10.8505,76.2711
+India,2023,3,75,Kerala,Spring Travel,10.8505,76.2711
+India,2023,4,70,Kerala,Pre-Monsoon,10.8505,76.2711
+India,2023,5,65,Kerala,Off Season,10.8505,76.2711
+India,2023,6,60,Kerala,Monsoon Tourism,10.8505,76.2711
+India,2023,7,62,Kerala,Ayurveda Season,10.8505,76.2711
+India,2023,8,70,Kerala,Onam Festival,10.8505,76.2711
+India,2023,9,75,Kerala,Post-Monsoon,10.8505,76.2711
+India,2023,10,85,Kerala,Festival Season,10.8505,76.2711
+India,2023,11,90,Kerala,Peak Tourism,10.8505,76.2711
+India,2023,12,95,Kerala,Holiday Peak,10.8505,76.2711
+Country,2023,month,tourism_index,state,event,latitude,longitude
+India,2023,1,88,Uttarakhand,Winter Tourism,30.0668,79.0193
+India,2023,2,85,Uttarakhand,Snow Tourism,30.0668,79.0193
+India,2023,3,80,Uttarakhand,Spring Travel,30.0668,79.0193
+India,2023,4,85,Uttarakhand,Hill Tourism,30.0668,79.0193
+India,2023,5,95,Uttarakhand,Summer Peak,30.0668,79.0193
+India,2023,6,98,Uttarakhand,Char Dham Yatra,30.0668,79.0193
+India,2023,7,75,Uttarakhand,Monsoon Travel,30.0668,79.0193
+India,2023,8,72,Uttarakhand,Off Season,30.0668,79.0193
+India,2023,9,80,Uttarakhand,Autumn Travel,30.0668,79.0193
+India,2023,10,92,Uttarakhand,Festival Travel,30.0668,79.0193
+India,2023,11,90,Uttarakhand,Holiday Tourism,30.0668,79.0193
+India,2023,12,96,Uttarakhand,Winter Peak,30.0668,79.0193
+India,2023,1,85,Tamil Nadu,Winter Tourism,11.1271,78.6569
+India,2023,2,80,Tamil Nadu,Cultural Tourism,11.1271,78.6569
+India,2023,3,78,Tamil Nadu,Temple Tourism,11.1271,78.6569
+India,2023,4,82,Tamil Nadu,Spring Travel,11.1271,78.6569
+India,2023,5,88,Tamil Nadu,Summer Tourism,11.1271,78.6569
+India,2023,6,78,Tamil Nadu,Monsoon Start,11.1271,78.6569
+India,2023,7,75,Tamil Nadu,Monsoon Travel,11.1271,78.6569
+India,2023,8,80,Tamil Nadu,Festival Season,11.1271,78.6569
+India,2023,9,82,Tamil Nadu,Pre-Festival Travel,11.1271,78.6569
+India,2023,10,92,Tamil Nadu,Diwali Tourism,11.1271,78.6569
+India,2023,11,90,Tamil Nadu,Peak Season,11.1271,78.6569
+India,2023,12,95,Tamil Nadu,Holiday Tourism,11.1271,78.6569
+India,2023,1,82,Maharashtra,Winter Tourism,19.7515,75.7139
+India,2023,2,78,Maharashtra,Cultural Season,19.7515,75.7139
+India,2023,3,80,Maharashtra,Holi Festival,19.7515,75.7139
+India,2023,4,82,Maharashtra,Spring Travel,19.7515,75.7139
+India,2023,5,88,Maharashtra,Summer Tourism,19.7515,75.7139
+India,2023,6,75,Maharashtra,Monsoon Start,19.7515,75.7139
+India,2023,7,72,Maharashtra,Monsoon Travel,19.7515,75.7139
+India,2023,8,78,Maharashtra,Festival Season,19.7515,75.7139
+India,2023,9,82,Maharashtra,Pre-Festival Travel,19.7515,75.7139
+India,2023,10,95,Maharashtra,Diwali Tourism,19.7515,75.7139
+India,2023,11,92,Maharashtra,Peak Season,19.7515,75.7139
+India,2023,12,97,Maharashtra,Year End Tourism,19.7515,75.7139
+India,2023,1,80,Delhi,Winter Tourism,28.7041,77.1025
+India,2023,2,75,Delhi,Cultural Tourism,28.7041,77.1025
+India,2023,3,78,Delhi,Holi Festival,28.7041,77.1025
+India,2023,4,80,Delhi,Spring Travel,28.7041,77.1025
+India,2023,5,75,Delhi,Summer Heat,28.7041,77.1025
+India,2023,6,70,Delhi,Off Season,28.7041,77.1025
+India,2023,7,68,Delhi,Monsoon Travel,28.7041,77.1025
+India,2023,8,72,Delhi,Independence Travel,28.7041,77.1025
+India,2023,9,78,Delhi,Pre-Festival Travel,28.7041,77.1025
+India,2023,10,95,Delhi,Diwali Tourism,28.7041,77.1025
+India,2023,11,92,Delhi,Festival Season,28.7041,77.1025
+India,2023,12,90,Delhi,Winter Peak,28.7041,77.1025
+India,2023,1,78,West Bengal,Winter Tourism,22.9868,87.8550
+India,2023,2,75,West Bengal,Cultural Season,22.9868,87.8550
+India,2023,3,78,West Bengal,Holi Festival,22.9868,87.8550
+India,2023,4,80,West Bengal,Spring Travel,22.9868,87.8550
+India,2023,5,75,West Bengal,Summer Travel,22.9868,87.8550
+India,2023,6,70,West Bengal,Monsoon Start,22.9868,87.8550
+India,2023,7,68,West Bengal,Monsoon Travel,22.9868,87.8550
+India,2023,8,75,West Bengal,Durga Puja Prep,22.9868,87.8550
+India,2023,9,85,West Bengal,Durga Puja,22.9868,87.8550
+India,2023,10,95,West Bengal,Festival Peak,22.9868,87.8550
+India,2023,11,90,West Bengal,Post Festival Travel,22.9868,87.8550
+India,2023,12,88,West Bengal,Holiday Tourism,22.9868,87.8550
